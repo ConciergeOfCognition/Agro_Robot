@@ -6,3 +6,5 @@ Tier 1 V1: agricultural robot for coffee or tea in Uganda.
 - ROS 2 + Gazebo simulation on terrain derived from open DEM data
 - Design constraints, kinematics and chassis concept
 
+# Rules
+-Datasets live on an external drive 
