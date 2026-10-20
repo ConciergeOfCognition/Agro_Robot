@@ -15,9 +15,10 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:cbafdd49-4bf0-4d2f-b552-517a89270549@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261001T083000
-DTEND;TZID=Africa/Kampala:20261001T085000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261019T083000
+DTEND;TZID=Africa/Kampala:20261019T085000
 SUMMARY:T1V1: Stand-up + plan the day
 DESCRIPTION:Yesterday\, today\, blockers. Open the Gantt and today's goals.
  \nFull plan: tier1v1-gantt-and-audit.xlsx (Daily plan sheet).
@@ -29,9 +30,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:4506ceca-8f16-474d-b4ef-5655a98b481d@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261001T090000
-DTEND;TZID=Africa/Kampala:20261001T123000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261019T090000
+DTEND;TZID=Africa/Kampala:20261019T123000
 SUMMARY:T1V1: Kickoff + set up machines
 DESCRIPTION:GOAL: Agree scope\, roles\, the teach-back rule and how you wil
  l work together. Set up your Mac (Python venv\, pinned PyTorch). Coach Tea
@@ -47,12 +49,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:740cd205-107c-4cd5-b339-23ef24c39b2f@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261001T133000
-DTEND;TZID=Africa/Kampala:20261001T153000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261019T133000
+DTEND;TZID=Africa/Kampala:20261019T153000
 SUMMARY:T1V1: WSL2 + Ubuntu 24.04
 DESCRIPTION:GOAL: Windows side (Boot Camp): run winver (need build 19044+)\
- , enable WSL2 and install Ubuntu 24.04. Confirm the backup from Sep 25 exi
+ , enable WSL2 and install Ubuntu 24.04. Confirm the backup from Oct 13 exi
  sts first.\nDONE WHEN: Ubuntu opens from Windows and lsb_release -a prints
   24.04.\nPARTNER TODAY: Accounts\, repo\, first commit\nFull plan: tier1v1
  -gantt-and-audit.xlsx (Daily plan sheet).
@@ -64,9 +67,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:f467ef13-e006-4eea-b852-47d71d6f275f@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261001T153000
-DTEND;TZID=Africa/Kampala:20261001T163000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261019T153000
+DTEND;TZID=Africa/Kampala:20261019T163000
 SUMMARY:T1V1: Learning block
 DESCRIPTION:LEARN: ROS 2 Jazzy docs: read the Concepts pages (nodes\, topic
  s\, services).\nLINKS: https://docs.ros.org/en/jazzy/\nStuck for more than
@@ -80,9 +84,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:24c2671d-b34d-4752-9358-c91ef097219d@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261001T163000
-DTEND;TZID=Africa/Kampala:20261001T170000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261019T163000
+DTEND;TZID=Africa/Kampala:20261019T170000
 SUMMARY:T1V1: Daily log + commit
 DESCRIPTION:Three lines in the learning ledger. Commit and push. Back up to
  day's work.
@@ -94,9 +99,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:52ac6043-9c26-4a6d-9c3a-b643fd7229c5@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261002T083000
-DTEND;TZID=Africa/Kampala:20261002T085000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261020T083000
+DTEND;TZID=Africa/Kampala:20261020T085000
 SUMMARY:T1V1: Stand-up + plan the day
 DESCRIPTION:Yesterday\, today\, blockers. Open the Gantt and today's goals.
  \nFull plan: tier1v1-gantt-and-audit.xlsx (Daily plan sheet).
@@ -108,9 +114,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c6bbd42e-b7c3-448d-ba51-e020b93453c3@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261002T090000
-DTEND;TZID=Africa/Kampala:20261002T123000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261020T090000
+DTEND;TZID=Africa/Kampala:20261020T123000
 SUMMARY:T1V1: Install ROS 2 Jazzy + Gazebo Harmonic
 DESCRIPTION:GOAL: In Ubuntu on WSL2 follow the official ROS 2 Jazzy install
  \, then install Gazebo Harmonic with the ros_gz packages. Paste every erro
@@ -125,9 +132,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:4e29e2e7-ea7f-4eea-b847-593fd5e89628@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261002T133000
-DTEND;TZID=Africa/Kampala:20261002T153000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261020T133000
+DTEND;TZID=Africa/Kampala:20261020T153000
 SUMMARY:T1V1: Smoke test: Gazebo with a camera
 DESCRIPTION:GOAL: Run a Gazebo world with a camera sensor and measure the f
  rame rate. Pass mark: about 10 frames per second.\nDONE WHEN: Pass or fail
@@ -141,9 +149,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:d21ad973-6bf3-42c5-a074-20b2e5405bee@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261002T153000
-DTEND;TZID=Africa/Kampala:20261002T160000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261020T153000
+DTEND;TZID=Africa/Kampala:20261020T160000
 SUMMARY:T1V1: Learning block
 DESCRIPTION:LEARN: Gazebo Harmonic docs: getting started and SDF world basi
  cs.\nLINKS: https://gazebosim.org/docs\nStuck for more than 30 minutes? As
@@ -157,9 +166,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1444baae-4caa-4df2-bf79-f61b17ae401f@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261002T160000
-DTEND;TZID=Africa/Kampala:20261002T163000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261020T160000
+DTEND;TZID=Africa/Kampala:20261020T163000
 SUMMARY:T1V1: Teach-back
 DESCRIPTION:Teammate explains one thing learned this week (5-10 min). You a
  sks two questions\, then explains one concept in return. See one\, do one\
@@ -172,9 +182,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:9081e42c-7c8d-425f-b9ff-7daacc6b8801@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261002T163000
-DTEND;TZID=Africa/Kampala:20261002T170000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261020T163000
+DTEND;TZID=Africa/Kampala:20261020T170000
 SUMMARY:T1V1: Daily log + commit
 DESCRIPTION:Three lines in the learning ledger. Commit and push. Update Gan
  tt % done.
@@ -186,9 +197,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:98036a7a-53ef-411b-8c28-954c74dde20d@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261005T083000
-DTEND;TZID=Africa/Kampala:20261005T085000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261021T083000
+DTEND;TZID=Africa/Kampala:20261021T085000
 SUMMARY:T1V1: Stand-up + plan the day
 DESCRIPTION:Yesterday\, today\, blockers. Open the Gantt and today's goals.
  \nFull plan: tier1v1-gantt-and-audit.xlsx (Daily plan sheet).
@@ -200,9 +212,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cebcbe44-8cac-41a2-af8c-5cad782aba2b@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261005T090000
-DTEND;TZID=Africa/Kampala:20261005T123000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261021T090000
+DTEND;TZID=Africa/Kampala:20261021T123000
 SUMMARY:T1V1: Audit review + email draft
 DESCRIPTION:GOAL: Review Teammate's audit line by line: licence\, size\, re
  al-field\, independence. Shortlist datasets per crop. Help draft the email
@@ -218,9 +231,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2e38b796-b402-4a6c-92b2-36ff41a1768d@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261005T133000
-DTEND;TZID=Africa/Kampala:20261005T153000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261021T133000
+DTEND;TZID=Africa/Kampala:20261021T153000
 SUMMARY:T1V1: QGIS install + DEM basics
 DESCRIPTION:GOAL: Install QGIS. Download a Copernicus DEM tile of western U
  ganda from OpenTopography. Load it\, make a hillshade and a slope map.\nDO
@@ -235,9 +249,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:4e45f374-b60c-4177-ad1b-d4002b97d258@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261005T153000
-DTEND;TZID=Africa/Kampala:20261005T163000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261021T153000
+DTEND;TZID=Africa/Kampala:20261021T163000
 SUMMARY:T1V1: Learning block
 DESCRIPTION:LEARN: ROS 2 Beginner: CLI tools (turtlesim\, nodes\, topics).\
  nLINKS: https://docs.ros.org/en/jazzy/Tutorials/Beginner-CLI-Tools.html\nS
@@ -251,9 +266,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:6df6cdb9-1f16-4f31-86b5-8445fbd9ef5f@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261005T163000
-DTEND;TZID=Africa/Kampala:20261005T170000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261021T163000
+DTEND;TZID=Africa/Kampala:20261021T170000
 SUMMARY:T1V1: Daily log + commit
 DESCRIPTION:Three lines in the learning ledger. Commit and push. Back up to
  day's work.
@@ -265,9 +281,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:87a1a4c7-7e20-4e83-9045-d610a117d578@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261006T083000
-DTEND;TZID=Africa/Kampala:20261006T085000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261022T083000
+DTEND;TZID=Africa/Kampala:20261022T085000
 SUMMARY:T1V1: Stand-up + plan the day
 DESCRIPTION:Yesterday\, today\, blockers. Open the Gantt and today's goals.
  \nFull plan: tier1v1-gantt-and-audit.xlsx (Daily plan sheet).
@@ -279,9 +296,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c30d2cd6-034b-481d-9d3f-d73f5efed34c@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261006T090000
-DTEND;TZID=Africa/Kampala:20261006T123000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261022T090000
+DTEND;TZID=Africa/Kampala:20261022T123000
 SUMMARY:T1V1: Crop + task decision
 DESCRIPTION:GOAL: Read the Data audit summary together and decide crop and 
  task (60 min). Then Teammate writes the 1-page decision memo: why\, datase
@@ -296,9 +314,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:8ea3ef39-6af7-4f3e-af79-3c018c937185@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261006T133000
-DTEND;TZID=Africa/Kampala:20261006T153000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261022T133000
+DTEND;TZID=Africa/Kampala:20261022T153000
 SUMMARY:T1V1: Plan the data pipeline
 DESCRIPTION:GOAL: Choose one annotation format (YOLO or COCO)\, write the c
  lass mapping between datasets\, list what each dataset needs.\nDONE WHEN: 
@@ -312,9 +331,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:7bd9e839-904a-40da-a065-ffc635e7323a@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261006T153000
-DTEND;TZID=Africa/Kampala:20261006T163000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261022T153000
+DTEND;TZID=Africa/Kampala:20261022T163000
 SUMMARY:T1V1: Learning block
 DESCRIPTION:LEARN: Ultralytics docs: Train and Datasets pages.\nLINKS: http
  s://docs.ultralytics.com\nStuck for more than 30 minutes? Ask your partner
@@ -328,9 +348,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:0f79f4c9-e0dc-49c5-9224-7e0fc3aeecee@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261006T163000
-DTEND;TZID=Africa/Kampala:20261006T170000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261022T163000
+DTEND;TZID=Africa/Kampala:20261022T170000
 SUMMARY:T1V1: Daily log + commit
 DESCRIPTION:Three lines in the learning ledger. Commit and push. Back up to
  day's work.
@@ -342,9 +363,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:99c61e59-f97e-4c64-805a-8fbcd9505feb@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261007T083000
-DTEND;TZID=Africa/Kampala:20261007T085000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261023T083000
+DTEND;TZID=Africa/Kampala:20261023T085000
 SUMMARY:T1V1: Stand-up + plan the day
 DESCRIPTION:Yesterday\, today\, blockers. Open the Gantt and today's goals.
  \nFull plan: tier1v1-gantt-and-audit.xlsx (Daily plan sheet).
@@ -356,9 +378,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:935bb515-fc25-48ff-873d-ea14b306b9eb@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261007T090000
-DTEND;TZID=Africa/Kampala:20261007T123000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261023T090000
+DTEND;TZID=Africa/Kampala:20261023T123000
 SUMMARY:T1V1: Dataset harmonisation script
 DESCRIPTION:GOAL: Write a Python script that converts dataset 1 to the comm
  on format with the class mapping. Explain each step as you write it. Teamm
@@ -373,9 +396,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c7c93f1a-3d6a-45ba-9c68-3659f5407dce@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261007T133000
-DTEND;TZID=Africa/Kampala:20261007T153000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261023T133000
+DTEND;TZID=Africa/Kampala:20261023T153000
 SUMMARY:T1V1: ROS 2 workspace + first package
 DESCRIPTION:GOAL: Pair on Ubuntu: create a colcon workspace\, a Python pack
  age and a publisher/subscriber pair (Beginner: Client libraries). Teammate
@@ -390,9 +414,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2b3e58a5-bd9f-4534-a148-75cbc9b03915@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261007T153000
-DTEND;TZID=Africa/Kampala:20261007T163000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261023T153000
+DTEND;TZID=Africa/Kampala:20261023T163000
 SUMMARY:T1V1: Learning block
 DESCRIPTION:LEARN: ROS 2 Beginner: Client libraries (Python publisher/subsc
  riber).\nLINKS: https://docs.ros.org/en/jazzy/Tutorials/Beginner-Client-Li
@@ -406,9 +431,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:914a2150-9a5a-448e-b249-6b6a91a68ef8@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261007T163000
-DTEND;TZID=Africa/Kampala:20261007T170000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261023T163000
+DTEND;TZID=Africa/Kampala:20261023T170000
 SUMMARY:T1V1: Daily log + commit
 DESCRIPTION:Three lines in the learning ledger. Commit and push. Back up to
  day's work.
@@ -420,9 +446,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:9e4251f4-443e-46d2-9686-c621b210bc76@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261008T083000
-DTEND;TZID=Africa/Kampala:20261008T085000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261026T083000
+DTEND;TZID=Africa/Kampala:20261026T085000
 SUMMARY:T1V1: Stand-up + plan the day
 DESCRIPTION:Yesterday\, today\, blockers. Open the Gantt and today's goals.
  \nFull plan: tier1v1-gantt-and-audit.xlsx (Daily plan sheet).
@@ -434,9 +461,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:9953baac-64f1-4aa4-a940-65ad55161cf6@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261008T090000
-DTEND;TZID=Africa/Kampala:20261008T123000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261026T090000
+DTEND;TZID=Africa/Kampala:20261026T123000
 SUMMARY:T1V1: Requirements v0 + constraint skeleton
 DESCRIPTION:GOAL: One page: who uses it (estates)\, where (slope\, rain\, m
  ud)\, tasks\, speed\, payload\, cost limit\, safety. Note which numbers st
@@ -451,9 +479,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:d09d4b47-add1-4ada-99b4-4a54f752c6ef@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261008T133000
-DTEND;TZID=Africa/Kampala:20261008T150000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261026T133000
+DTEND;TZID=Africa/Kampala:20261026T150000
 SUMMARY:T1V1: Check-in prep
 DESCRIPTION:GOAL: Agenda: crop decision\, Linux route\, plan\, what you nee
  d next (Linux workstation\, component budget later). Rehearse Teammate's 2
@@ -468,9 +497,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2a1e6260-0758-48f9-af1a-2e450da57dbe@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261008T150000
-DTEND;TZID=Africa/Kampala:20261008T153000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261026T150000
+DTEND;TZID=Africa/Kampala:20261026T153000
 SUMMARY:T1V1: Supervisor check-in (confirm time)
 DESCRIPTION:Agenda: progress\, decisions needed\, blockers\, next week. Typ
  e the notes within the hour.\nTeammate presents the audit result (2 minute
@@ -483,9 +513,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:f5a34880-c2e9-4982-b007-d7aa7e010cbe@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261008T153000
-DTEND;TZID=Africa/Kampala:20261008T163000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261026T153000
+DTEND;TZID=Africa/Kampala:20261026T163000
 SUMMARY:T1V1: Learning block
 DESCRIPTION:LEARN: Read what mAP\, IoU\, precision and recall mean.\nLINKS:
   https://docs.ultralytics.com/guides/yolo-performance-metrics/\nStuck for 
@@ -499,9 +530,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1c50a9d6-f9a7-4944-a3b3-51f3b200eb56@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261008T163000
-DTEND;TZID=Africa/Kampala:20261008T170000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261026T163000
+DTEND;TZID=Africa/Kampala:20261026T170000
 SUMMARY:T1V1: Daily log + commit
 DESCRIPTION:Three lines in the learning ledger. Commit and push. Back up to
  day's work.
@@ -513,7 +545,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a44696ec-394f-4e4e-afcf-f274b56d276d@tier1v1
-DTSTAMP:20260922T003525Z
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Independence Day (public holiday)
@@ -521,9 +554,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:34c7c337-140c-4dd7-8c86-fca68f5ec626@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261012T083000
-DTEND;TZID=Africa/Kampala:20261012T085000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261027T083000
+DTEND;TZID=Africa/Kampala:20261027T085000
 SUMMARY:T1V1: Stand-up + plan the day
 DESCRIPTION:Yesterday\, today\, blockers. Open the Gantt and today's goals.
  \nFull plan: tier1v1-gantt-and-audit.xlsx (Daily plan sheet).
@@ -535,9 +569,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b67377a1-2614-45fa-9532-f74656ff4eea@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261012T090000
-DTEND;TZID=Africa/Kampala:20261012T123000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261027T090000
+DTEND;TZID=Africa/Kampala:20261027T123000
 SUMMARY:T1V1: Baseline training on dataset 1
 DESCRIPTION:GOAL: On Colab (GPU) train a detector on dataset 1. Explain eac
  h cell as it runs and watch the loss curve. Save the weights.\nDONE WHEN: 
@@ -551,9 +586,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:9a38dece-e05e-4ef8-a7e9-bb32c7e16086@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261012T133000
-DTEND;TZID=Africa/Kampala:20261012T153000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261027T133000
+DTEND;TZID=Africa/Kampala:20261027T153000
 SUMMARY:T1V1: Evaluate the baseline
 DESCRIPTION:GOAL: Evaluate on dataset 1's test split: mAP@0.5\, precision a
  nd recall per class. Check how the split was made and look for duplicates.
@@ -567,9 +603,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:d37e2eaf-4b63-4b56-a803-8df0c05c01c0@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261012T153000
-DTEND;TZID=Africa/Kampala:20261012T163000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261027T153000
+DTEND;TZID=Africa/Kampala:20261027T163000
 SUMMARY:T1V1: Learning block
 DESCRIPTION:LEARN: Ultralytics: Train mode and tips.\nLINKS: https://docs.u
  ltralytics.com/modes/train/\nStuck for more than 30 minutes? Ask your part
@@ -583,9 +620,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:f1de8f66-08dd-4307-8051-9b9a0b30373d@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261012T163000
-DTEND;TZID=Africa/Kampala:20261012T170000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261027T163000
+DTEND;TZID=Africa/Kampala:20261027T170000
 SUMMARY:T1V1: Daily log + commit
 DESCRIPTION:Three lines in the learning ledger. Commit and push. Back up to
  day's work.
@@ -597,9 +635,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:e39c346f-d41e-4ca1-852a-1a4b570ef2b5@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261013T083000
-DTEND;TZID=Africa/Kampala:20261013T085000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261028T083000
+DTEND;TZID=Africa/Kampala:20261028T085000
 SUMMARY:T1V1: Stand-up + plan the day
 DESCRIPTION:Yesterday\, today\, blockers. Open the Gantt and today's goals.
  \nFull plan: tier1v1-gantt-and-audit.xlsx (Daily plan sheet).
@@ -611,9 +650,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:85069e2d-6c1b-44dd-992c-7924595796b5@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261013T090000
-DTEND;TZID=Africa/Kampala:20261013T123000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261028T090000
+DTEND;TZID=Africa/Kampala:20261028T123000
 SUMMARY:T1V1: Slope analysis from the DEM
 DESCRIPTION:GOAL: In QGIS make slope rasters for the growing districts of y
  our crop (verify districts with the industry body). Export slope statistic
@@ -628,9 +668,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a805a756-7994-4a19-ba79-7c0ab844fcb5@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261013T133000
-DTEND;TZID=Africa/Kampala:20261013T153000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261028T133000
+DTEND;TZID=Africa/Kampala:20261028T153000
 SUMMARY:T1V1: Rainfall and soils
 DESCRIPTION:GOAL: Get CHIRPS rainfall and SoilGrids soil data for the same 
  districts. Summarise wet-season rainfall and soil texture in one table.\nD
@@ -644,9 +685,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2a4c6eef-5257-46c1-89bb-07c4c6fa6abd@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261013T153000
-DTEND;TZID=Africa/Kampala:20261013T163000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261028T153000
+DTEND;TZID=Africa/Kampala:20261028T163000
 SUMMARY:T1V1: Learning block
 DESCRIPTION:LEARN: Gazebo: terrain and heightmaps (SDF).\nLINKS: https://ga
  zebosim.org/docs\nStuck for more than 30 minutes? Ask your partner\, then 
@@ -659,9 +701,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:55b82aa4-7b55-4a5b-afbe-ba6bc3fb059c@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261013T163000
-DTEND;TZID=Africa/Kampala:20261013T170000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261028T163000
+DTEND;TZID=Africa/Kampala:20261028T170000
 SUMMARY:T1V1: Daily log + commit
 DESCRIPTION:Three lines in the learning ledger. Commit and push. Back up to
  day's work.
@@ -673,9 +716,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a841aca9-3ce2-438d-9e28-4ae597dc776a@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261014T083000
-DTEND;TZID=Africa/Kampala:20261014T085000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261029T083000
+DTEND;TZID=Africa/Kampala:20261029T085000
 SUMMARY:T1V1: Stand-up + plan the day
 DESCRIPTION:Yesterday\, today\, blockers. Open the Gantt and today's goals.
  \nFull plan: tier1v1-gantt-and-audit.xlsx (Daily plan sheet).
@@ -687,9 +731,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c3610e1e-880f-43f8-b0ef-916bd803a302@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261014T090000
-DTEND;TZID=Africa/Kampala:20261014T123000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261029T090000
+DTEND;TZID=Africa/Kampala:20261029T123000
 SUMMARY:T1V1: Derive robot kinematics
 DESCRIPTION:GOAL: Forward and inverse kinematics for differential-drive and
   skid-steer with a slip factor. Simulate a path in Python. Teammate follow
@@ -704,9 +749,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:e66ad5f2-e79e-476e-8a08-897377bef2a1@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261014T133000
-DTEND;TZID=Africa/Kampala:20261014T153000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261029T133000
+DTEND;TZID=Africa/Kampala:20261029T153000
 SUMMARY:T1V1: MATLAB cross-check (Windows)
 DESCRIPTION:GOAL: Reboot into Windows. In MATLAB run ver to see what is lic
  ensed\, then use Robotics System Toolbox (differentialDriveKinematics) and
@@ -721,9 +767,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:75e20a8f-df6a-4ee6-b123-9b0120e6e375@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261014T153000
-DTEND;TZID=Africa/Kampala:20261014T163000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261029T153000
+DTEND;TZID=Africa/Kampala:20261029T163000
 SUMMARY:T1V1: Learning block
 DESCRIPTION:LEARN: URDF tutorials.\nLINKS: https://docs.ros.org/en/jazzy/Tu
  torials/Intermediate/URDF/URDF-Main.html\nStuck for more than 30 minutes? 
@@ -737,9 +784,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:4060fc9a-e352-4975-a25a-6733b34a352c@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261014T163000
-DTEND;TZID=Africa/Kampala:20261014T170000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261029T163000
+DTEND;TZID=Africa/Kampala:20261029T170000
 SUMMARY:T1V1: Daily log + commit
 DESCRIPTION:Three lines in the learning ledger. Commit and push. Back up to
  day's work.
@@ -751,9 +799,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:88407d65-269e-4e67-967c-eaa6e1b5bc2f@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261015T083000
-DTEND;TZID=Africa/Kampala:20261015T085000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261030T083000
+DTEND;TZID=Africa/Kampala:20261030T085000
 SUMMARY:T1V1: Stand-up + plan the day
 DESCRIPTION:Yesterday\, today\, blockers. Open the Gantt and today's goals.
  \nFull plan: tier1v1-gantt-and-audit.xlsx (Daily plan sheet).
@@ -765,9 +814,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:f4a4bb98-97b2-4c3c-9b46-59461a50e392@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261015T090000
-DTEND;TZID=Africa/Kampala:20261015T123000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261030T090000
+DTEND;TZID=Africa/Kampala:20261030T123000
 SUMMARY:T1V1: Robot description (URDF) v0
 DESCRIPTION:GOAL: Write a URDF/xacro: box chassis\, four wheels\, camera li
  nk\, lidar link. Teammate co-drives with the URDF tutorial. Check it loads
@@ -781,9 +831,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:89d14a6d-52e8-4179-8f89-8d2897fdd599@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261015T133000
-DTEND;TZID=Africa/Kampala:20261015T150000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261030T133000
+DTEND;TZID=Africa/Kampala:20261030T150000
 SUMMARY:T1V1: Spawn robot in Gazebo + teleop
 DESCRIPTION:GOAL: Spawn the robot\, bridge topics with ros_gz_bridge and dr
  ive it with the keyboard.\nDONE WHEN: Robot drives in Gazebo\; screen clip
@@ -797,9 +848,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2f8421b3-3175-4c44-b211-27cc40c42eb2@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261015T150000
-DTEND;TZID=Africa/Kampala:20261015T153000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261030T150000
+DTEND;TZID=Africa/Kampala:20261030T153000
 SUMMARY:T1V1: Supervisor check-in (confirm time)
 DESCRIPTION:Agenda: progress\, decisions needed\, blockers\, next week. Typ
  e the notes within the hour.
@@ -811,9 +863,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:10c1f1f7-69f2-431a-b313-187d764aa346@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261015T153000
-DTEND;TZID=Africa/Kampala:20261015T163000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261030T153000
+DTEND;TZID=Africa/Kampala:20261030T163000
 SUMMARY:T1V1: Learning block
 DESCRIPTION:LEARN: ros_gz bridge docs.\nLINKS: https://gazebosim.org/docs/h
  armonic/ros_installation\nStuck for more than 30 minutes? Ask your partner
@@ -827,9 +880,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:7623a94e-8a12-49ac-9b6f-8361657efcd9@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261015T163000
-DTEND;TZID=Africa/Kampala:20261015T170000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261030T163000
+DTEND;TZID=Africa/Kampala:20261030T170000
 SUMMARY:T1V1: Daily log + commit
 DESCRIPTION:Three lines in the learning ledger. Commit and push. Back up to
  day's work.
@@ -841,9 +895,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:af234923-05ad-4bea-836f-a866b7a6333a@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261016T083000
-DTEND;TZID=Africa/Kampala:20261016T085000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261102T083000
+DTEND;TZID=Africa/Kampala:20261102T085000
 SUMMARY:T1V1: Stand-up + plan the day
 DESCRIPTION:Yesterday\, today\, blockers. Open the Gantt and today's goals.
  \nFull plan: tier1v1-gantt-and-audit.xlsx (Daily plan sheet).
@@ -855,9 +910,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:e1e71901-cf47-4b59-bc1a-7a9124a30f82@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261016T090000
-DTEND;TZID=Africa/Kampala:20261016T123000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261102T090000
+DTEND;TZID=Africa/Kampala:20261102T123000
 SUMMARY:T1V1: Gate 1 review
 DESCRIPTION:GOAL: Tick the Gate 1 list: audit + crop decision\, baseline nu
  mber\, slope histograms\, kinematics note\, robot drives in Gazebo\, requi
@@ -872,13 +928,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:182d7e27-593e-4075-8c79-15333f6a25ea@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261016T133000
-DTEND;TZID=Africa/Kampala:20261016T153000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261102T133000
+DTEND;TZID=Africa/Kampala:20261102T153000
 SUMMARY:T1V1: Plan W3-W4\, tidy the repo
-DESCRIPTION:GOAL: Plan tasks and learning for Oct 19-30\, tidy the repo\, b
- ack up.\nDONE WHEN: Plan agreed.\nPARTNER TODAY: Progress note to the supe
- rvisor\nFull plan: tier1v1-gantt-and-audit.xlsx (Daily plan sheet).
+DESCRIPTION:GOAL: Plan tasks and learning for Nov 3-16\, tidy the repo\, ba
+ ck up.\nDONE WHEN: Plan agreed.\nPARTNER TODAY: Progress note to the super
+ visor\nFull plan: tier1v1-gantt-and-audit.xlsx (Daily plan sheet).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:T1V1: Plan W3-W4\, tidy the repo
@@ -887,9 +944,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:76550e0a-2c99-48b0-8dd8-b4e82d6b6f6a@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261016T153000
-DTEND;TZID=Africa/Kampala:20261016T160000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261102T153000
+DTEND;TZID=Africa/Kampala:20261102T160000
 SUMMARY:T1V1: Learning block
 DESCRIPTION:LEARN: Teach-back prep: pick one thing to explain back.\nStuck 
  for more than 30 minutes? Ask your partner\, then the tool's forum\, then 
@@ -902,9 +960,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2571c7ec-b7d5-41cc-8536-2068eb21646a@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261016T160000
-DTEND;TZID=Africa/Kampala:20261016T163000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261102T160000
+DTEND;TZID=Africa/Kampala:20261102T163000
 SUMMARY:T1V1: Teach-back
 DESCRIPTION:Teammate explains one thing learned this week (5-10 min). You a
  sks two questions\, then explains one concept in return. See one\, do one\
@@ -917,9 +976,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ecd26e37-f909-4ad6-afda-6fe7e664c8b6@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261016T163000
-DTEND;TZID=Africa/Kampala:20261016T170000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261102T163000
+DTEND;TZID=Africa/Kampala:20261102T170000
 SUMMARY:T1V1: Daily log + commit
 DESCRIPTION:Three lines in the learning ledger. Commit and push. Update Gan
  tt % done.
@@ -931,9 +991,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:e5d47388-d16c-4152-96b7-5a91e0d7511d@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261019T083000
-DTEND;TZID=Africa/Kampala:20261019T085000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261103T083000
+DTEND;TZID=Africa/Kampala:20261103T085000
 SUMMARY:T1V1: Stand-up + plan the day
 DESCRIPTION:Yesterday\, today\, blockers. Open the Gantt and today's goals.
  \nFull plan: tier1v1-gantt-and-audit.xlsx (Daily plan sheet).
@@ -945,9 +1006,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:7c10b9a2-99c7-4cfa-a9c4-f1f92b0e1dda@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261019T090000
-DTEND;TZID=Africa/Kampala:20261019T123000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261103T090000
+DTEND;TZID=Africa/Kampala:20261103T123000
 SUMMARY:T1V1: Convert dataset 2\, same classes
 DESCRIPTION:GOAL: Review Teammate's run of the harmonisation script on data
  set 2. Confirm class names match.\nDONE WHEN: Dataset 2 in the common form
@@ -961,9 +1023,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:5b505016-7f32-47c8-8ab8-b608c7afa3c9@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261019T133000
-DTEND;TZID=Africa/Kampala:20261019T153000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261103T133000
+DTEND;TZID=Africa/Kampala:20261103T153000
 SUMMARY:T1V1: Cross-dataset test
 DESCRIPTION:GOAL: Run the model trained on dataset 1 against dataset 2's te
  st split. This is your domain-gap number. Log mAP\, precision\, recall.\nD
@@ -977,9 +1040,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:f72503ac-c263-479f-bb3f-e271456e8cee@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261019T153000
-DTEND;TZID=Africa/Kampala:20261019T163000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261103T153000
+DTEND;TZID=Africa/Kampala:20261103T163000
 SUMMARY:T1V1: Learning block
 DESCRIPTION:LEARN: Nav2 concepts.\nLINKS: https://docs.nav2.org\nStuck for 
  more than 30 minutes? Ask your partner\, then the tool's forum\, then brin
@@ -992,9 +1056,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:f17138ba-1b8c-478f-a9ef-99335bbe28f7@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261019T163000
-DTEND;TZID=Africa/Kampala:20261019T170000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261103T163000
+DTEND;TZID=Africa/Kampala:20261103T170000
 SUMMARY:T1V1: Daily log + commit
 DESCRIPTION:Three lines in the learning ledger. Commit and push. Back up to
  day's work.
@@ -1006,9 +1071,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:3a22cc52-fe2d-424f-b752-da4b7d712c2b@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261020T083000
-DTEND;TZID=Africa/Kampala:20261020T085000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261104T083000
+DTEND;TZID=Africa/Kampala:20261104T085000
 SUMMARY:T1V1: Stand-up + plan the day
 DESCRIPTION:Yesterday\, today\, blockers. Open the Gantt and today's goals.
  \nFull plan: tier1v1-gantt-and-audit.xlsx (Daily plan sheet).
@@ -1020,9 +1086,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:13b869c4-1dff-449f-bebd-217a02cf8c69@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261020T090000
-DTEND;TZID=Africa/Kampala:20261020T123000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261104T090000
+DTEND;TZID=Africa/Kampala:20261104T123000
 SUMMARY:T1V1: Terrain from DEM patches
 DESCRIPTION:GOAL: Cut three patches (gentle\, moderate\, steep) from the DE
  M\, convert to heightmap images and load them as Gazebo worlds.\nDONE WHEN
@@ -1036,9 +1103,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:40c0ebfe-ac13-400e-ba09-edec7c479b11@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261020T133000
-DTEND;TZID=Africa/Kampala:20261020T153000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261104T133000
+DTEND;TZID=Africa/Kampala:20261104T153000
 SUMMARY:T1V1: Crop rows in the world
 DESCRIPTION:GOAL: Add rows of the crop at real spacing (from desk research)
  . Review Teammate's generator script.\nDONE WHEN: World with crop rows.\nP
@@ -1052,9 +1120,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:56558533-201d-4cbf-b902-28134ece16bb@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261020T153000
-DTEND;TZID=Africa/Kampala:20261020T163000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261104T153000
+DTEND;TZID=Africa/Kampala:20261104T163000
 SUMMARY:T1V1: Learning block
 DESCRIPTION:LEARN: Gazebo sensors and models.\nLINKS: https://gazebosim.org
  /docs\nStuck for more than 30 minutes? Ask your partner\, then the tool's 
@@ -1067,9 +1136,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c9eb917c-4a07-46e8-8a4c-5f99c19c7239@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261020T163000
-DTEND;TZID=Africa/Kampala:20261020T170000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261104T163000
+DTEND;TZID=Africa/Kampala:20261104T170000
 SUMMARY:T1V1: Daily log + commit
 DESCRIPTION:Three lines in the learning ledger. Commit and push. Back up to
  day's work.
@@ -1081,9 +1151,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:4163eb8c-0f97-42f6-a345-a543d0e468cf@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261021T083000
-DTEND;TZID=Africa/Kampala:20261021T085000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261105T083000
+DTEND;TZID=Africa/Kampala:20261105T085000
 SUMMARY:T1V1: Stand-up + plan the day
 DESCRIPTION:Yesterday\, today\, blockers. Open the Gantt and today's goals.
  \nFull plan: tier1v1-gantt-and-audit.xlsx (Daily plan sheet).
@@ -1095,9 +1166,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:19fd127a-34d1-430d-82e2-bb8c5a6aca93@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261021T090000
-DTEND;TZID=Africa/Kampala:20261021T123000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261105T090000
+DTEND;TZID=Africa/Kampala:20261105T123000
 SUMMARY:T1V1: Obstacles + sensors
 DESCRIPTION:GOAL: Add obstacles (people\, goats\, rocks\, ditches). Add a 2
  D lidar and a camera to the robot in URDF and Gazebo.\nDONE WHEN: Lidar an
@@ -1111,9 +1183,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:7222a24d-aa7e-4941-b95d-0033a2b3aec4@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261021T133000
-DTEND;TZID=Africa/Kampala:20261021T153000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261105T133000
+DTEND;TZID=Africa/Kampala:20261105T153000
 SUMMARY:T1V1: Inspect and record
 DESCRIPTION:GOAL: Use rqt and ros2 bag to record a drive across the terrain
  .\nDONE WHEN: A bag with camera\, lidar and odometry.\nPARTNER TODAY: ROS 
@@ -1126,9 +1199,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:703ad48b-870d-418c-afdd-491dbfe6355b@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261021T153000
-DTEND;TZID=Africa/Kampala:20261021T163000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261105T153000
+DTEND;TZID=Africa/Kampala:20261105T163000
 SUMMARY:T1V1: Learning block
 DESCRIPTION:LEARN: Gazebo sensors: lidar and camera.\nLINKS: https://gazebo
  sim.org/docs\nStuck for more than 30 minutes? Ask your partner\, then the 
@@ -1141,9 +1215,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:87ab934f-41eb-46a5-bf7c-9d935fa185b5@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261021T163000
-DTEND;TZID=Africa/Kampala:20261021T170000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261105T163000
+DTEND;TZID=Africa/Kampala:20261105T170000
 SUMMARY:T1V1: Daily log + commit
 DESCRIPTION:Three lines in the learning ledger. Commit and push. Back up to
  day's work.
@@ -1155,9 +1230,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:e33a90f8-7373-4737-ad4f-28939e8be0cf@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261022T083000
-DTEND;TZID=Africa/Kampala:20261022T085000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261106T083000
+DTEND;TZID=Africa/Kampala:20261106T085000
 SUMMARY:T1V1: Stand-up + plan the day
 DESCRIPTION:Yesterday\, today\, blockers. Open the Gantt and today's goals.
  \nFull plan: tier1v1-gantt-and-audit.xlsx (Daily plan sheet).
@@ -1169,9 +1245,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:87be2723-0ff4-4c6b-9f5d-c5bc849ba9fd@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261022T090000
-DTEND;TZID=Africa/Kampala:20261022T123000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261106T090000
+DTEND;TZID=Africa/Kampala:20261106T123000
 SUMMARY:T1V1: Design constraints v1
 DESCRIPTION:GOAL: From slope histograms\, rain\, soil and spacing set: max 
  slope\, ground clearance\, wheel diameter\, track width\, speed\, payload\
@@ -1186,9 +1263,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ee970b67-a63f-42eb-94f2-3eff90662694@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261022T133000
-DTEND;TZID=Africa/Kampala:20261022T150000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261106T133000
+DTEND;TZID=Africa/Kampala:20261106T150000
 SUMMARY:T1V1: Chassis options scoring
 DESCRIPTION:GOAL: Score tracked\, 4-wheel skid-steer and 2-wheel plus caste
  r against the constraints\, local repair and cost.\nDONE WHEN: docs/chassi
@@ -1202,9 +1280,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:657c7992-d328-465b-9d19-0eca6843b61f@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261022T150000
-DTEND;TZID=Africa/Kampala:20261022T153000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261106T150000
+DTEND;TZID=Africa/Kampala:20261106T153000
 SUMMARY:T1V1: Supervisor check-in (confirm time)
 DESCRIPTION:Agenda: progress\, decisions needed\, blockers\, next week. Typ
  e the notes within the hour.
@@ -1216,9 +1295,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:02c512c4-28bf-420e-9a5b-3a1990fa112a@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261022T153000
-DTEND;TZID=Africa/Kampala:20261022T163000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261106T153000
+DTEND;TZID=Africa/Kampala:20261106T163000
 SUMMARY:T1V1: Learning block
 DESCRIPTION:LEARN: QGIS terrain analysis (slope\, aspect).\nLINKS: https://
  docs.qgis.org\nStuck for more than 30 minutes? Ask your partner\, then the
@@ -1231,9 +1311,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:d10ab0f2-bcdd-472f-85d0-a771f2ae7d6f@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261022T163000
-DTEND;TZID=Africa/Kampala:20261022T170000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261106T163000
+DTEND;TZID=Africa/Kampala:20261106T170000
 SUMMARY:T1V1: Daily log + commit
 DESCRIPTION:Three lines in the learning ledger. Commit and push. Back up to
  day's work.
@@ -1245,9 +1326,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:8b5282da-9557-4d90-b11b-27f8567c5ada@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261023T083000
-DTEND;TZID=Africa/Kampala:20261023T085000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261109T083000
+DTEND;TZID=Africa/Kampala:20261109T085000
 SUMMARY:T1V1: Stand-up + plan the day
 DESCRIPTION:Yesterday\, today\, blockers. Open the Gantt and today's goals.
  \nFull plan: tier1v1-gantt-and-audit.xlsx (Daily plan sheet).
@@ -1259,9 +1341,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:f2025d86-8053-4b01-b39e-8478f2dc9a9b@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261023T090000
-DTEND;TZID=Africa/Kampala:20261023T123000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261109T090000
+DTEND;TZID=Africa/Kampala:20261109T123000
 SUMMARY:T1V1: Nav2 quick-start
 DESCRIPTION:GOAL: Run the Nav2 tutorial with the simulation robot: map\, lo
  calisation with lidar and odometry\, send a goal.\nDONE WHEN: Robot reache
@@ -1275,9 +1358,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2173d685-5524-435b-9660-5ecc93530d4f@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261023T133000
-DTEND;TZID=Africa/Kampala:20261023T153000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261109T133000
+DTEND;TZID=Africa/Kampala:20261109T153000
 SUMMARY:T1V1: Phone interview + weekly review
 DESCRIPTION:GOAL: Run one 30-minute call while Teammate takes notes. Update
   the Gantt.\nDONE WHEN: Notes typed within the hour.\nPARTNER TODAY: Take 
@@ -1291,9 +1375,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:419390dd-a753-4fa9-86cd-48c5ab6d910d@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261023T153000
-DTEND;TZID=Africa/Kampala:20261023T160000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261109T153000
+DTEND;TZID=Africa/Kampala:20261109T160000
 SUMMARY:T1V1: Learning block
 DESCRIPTION:LEARN: Prepare your teach-back.\nStuck for more than 30 minutes
  ? Ask your partner\, then the tool's forum\, then bring it back to Claude 
@@ -1306,9 +1391,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:0a630f27-7146-4ab7-9510-fefd8078f59c@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261023T160000
-DTEND;TZID=Africa/Kampala:20261023T163000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261109T160000
+DTEND;TZID=Africa/Kampala:20261109T163000
 SUMMARY:T1V1: Teach-back
 DESCRIPTION:Teammate explains one thing learned this week (5-10 min). You a
  sks two questions\, then explains one concept in return. See one\, do one\
@@ -1321,9 +1407,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:08d09b0c-97a4-4479-8831-d6ddfa166051@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261023T163000
-DTEND;TZID=Africa/Kampala:20261023T170000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261109T163000
+DTEND;TZID=Africa/Kampala:20261109T170000
 SUMMARY:T1V1: Daily log + commit
 DESCRIPTION:Three lines in the learning ledger. Commit and push. Update Gan
  tt % done.
@@ -1335,9 +1422,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c3eebfb2-2e81-42a6-bd14-c073c1d4d9db@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261026T083000
-DTEND;TZID=Africa/Kampala:20261026T085000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261110T083000
+DTEND;TZID=Africa/Kampala:20261110T085000
 SUMMARY:T1V1: Stand-up + plan the day
 DESCRIPTION:Yesterday\, today\, blockers. Open the Gantt and today's goals.
  \nFull plan: tier1v1-gantt-and-audit.xlsx (Daily plan sheet).
@@ -1349,9 +1437,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dfe60826-370d-4333-92ba-c8e1405a4cd3@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261026T090000
-DTEND;TZID=Africa/Kampala:20261026T123000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261110T090000
+DTEND;TZID=Africa/Kampala:20261110T123000
 SUMMARY:T1V1: Model improvement + licence check
 DESCRIPTION:GOAL: Try augmentation (brightness\, blur\, crop). Train the sa
  me data with a permissively licensed framework (torchvision Faster R-CNN o
@@ -1366,9 +1455,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c00d453e-3757-4792-81e8-0019f70be3c2@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261026T133000
-DTEND;TZID=Africa/Kampala:20261026T153000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261110T133000
+DTEND;TZID=Africa/Kampala:20261110T153000
 SUMMARY:T1V1: Review the error analysis
 DESCRIPTION:GOAL: Review Teammate's error analysis and pick the top 2 fixes
  .\nDONE WHEN: Two fixes decided.\nPARTNER TODAY: Lead: error analysis\nFul
@@ -1381,9 +1471,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:4d98504e-07a9-446b-9040-6082d7499a1c@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261026T153000
-DTEND;TZID=Africa/Kampala:20261026T163000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261110T153000
+DTEND;TZID=Africa/Kampala:20261110T163000
 SUMMARY:T1V1: Learning block
 DESCRIPTION:LEARN: torchvision detection tutorial.\nLINKS: https://pytorch.
  org/tutorials/intermediate/torchvision_tutorial.html\nStuck for more than 
@@ -1397,9 +1488,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c88c939a-4c8f-4f19-b4c8-ed0b3bd1ebdd@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261026T163000
-DTEND;TZID=Africa/Kampala:20261026T170000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261110T163000
+DTEND;TZID=Africa/Kampala:20261110T170000
 SUMMARY:T1V1: Daily log + commit
 DESCRIPTION:Three lines in the learning ledger. Commit and push. Back up to
  day's work.
@@ -1411,9 +1503,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:81db8ced-750b-41ae-9d58-5d74a080b0a3@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261027T083000
-DTEND;TZID=Africa/Kampala:20261027T085000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261111T083000
+DTEND;TZID=Africa/Kampala:20261111T085000
 SUMMARY:T1V1: Stand-up + plan the day
 DESCRIPTION:Yesterday\, today\, blockers. Open the Gantt and today's goals.
  \nFull plan: tier1v1-gantt-and-audit.xlsx (Daily plan sheet).
@@ -1425,9 +1518,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:7550d2a0-39c7-4ef6-8698-0308715437ba@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261027T090000
-DTEND;TZID=Africa/Kampala:20261027T123000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261111T090000
+DTEND;TZID=Africa/Kampala:20261111T123000
 SUMMARY:T1V1: Sim detector design
 DESCRIPTION:GOAL: Two ways to give the sim a detector: (a) replay real test
   images at waypoints\; (b) a statistical detector using your measured prec
@@ -1442,9 +1536,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:4a39c6ca-a348-4665-b18c-ec47e0f9904d@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261027T133000
-DTEND;TZID=Africa/Kampala:20261027T153000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261111T133000
+DTEND;TZID=Africa/Kampala:20261111T153000
 SUMMARY:T1V1: Detector node offline test
 DESCRIPTION:GOAL: Run the trained model in a ROS 2 node on the replayed ima
  ges and publish detections.\nDONE WHEN: Detections on a topic.\nPARTNER TO
@@ -1458,9 +1553,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:63715b18-7ab3-45ee-8658-7e879ebee206@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261027T153000
-DTEND;TZID=Africa/Kampala:20261027T163000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261111T153000
+DTEND;TZID=Africa/Kampala:20261111T163000
 SUMMARY:T1V1: Learning block
 DESCRIPTION:LEARN: ROS 2 image transport and cv_bridge.\nLINKS: https://doc
  s.ros.org/en/jazzy/\nStuck for more than 30 minutes? Ask your partner\, th
@@ -1473,9 +1569,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:9701121a-b16a-43c9-8572-204c43777acf@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261027T163000
-DTEND;TZID=Africa/Kampala:20261027T170000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261111T163000
+DTEND;TZID=Africa/Kampala:20261111T170000
 SUMMARY:T1V1: Daily log + commit
 DESCRIPTION:Three lines in the learning ledger. Commit and push. Back up to
  day's work.
@@ -1487,9 +1584,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:93da7715-883a-425e-83dd-28c0a64a88fa@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261028T083000
-DTEND;TZID=Africa/Kampala:20261028T085000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261112T083000
+DTEND;TZID=Africa/Kampala:20261112T085000
 SUMMARY:T1V1: Stand-up + plan the day
 DESCRIPTION:Yesterday\, today\, blockers. Open the Gantt and today's goals.
  \nFull plan: tier1v1-gantt-and-audit.xlsx (Daily plan sheet).
@@ -1501,9 +1599,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:21ff271b-1b22-483f-9485-bdad607380d5@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261028T090000
-DTEND;TZID=Africa/Kampala:20261028T123000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261112T090000
+DTEND;TZID=Africa/Kampala:20261112T123000
 SUMMARY:T1V1: Obstacle-avoidance navigation
 DESCRIPTION:GOAL: The robot drives along a crop row to a goal\, avoiding ob
  stacles (Nav2 or a simple reactive controller). Define 20 randomised trial
@@ -1518,9 +1617,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:d8ec6abc-3344-4fc7-8aba-d27fff4004eb@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261028T133000
-DTEND;TZID=Africa/Kampala:20261028T153000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261112T133000
+DTEND;TZID=Africa/Kampala:20261112T153000
 SUMMARY:T1V1: Run trials on 3 terrains
 DESCRIPTION:GOAL: Run 20 trials on each terrain. Log success rate and failu
  re reasons.\nDONE WHEN: Results table for 3 terrains.\nPARTNER TODAY: Run 
@@ -1534,9 +1634,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:f65dd4c6-a120-4c25-9160-7a02729541b0@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261028T153000
-DTEND;TZID=Africa/Kampala:20261028T163000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261112T153000
+DTEND;TZID=Africa/Kampala:20261112T163000
 SUMMARY:T1V1: Learning block
 DESCRIPTION:LEARN: Nav2 behaviour trees and collision monitor.\nLINKS: http
  s://docs.nav2.org\nStuck for more than 30 minutes? Ask your partner\, then
@@ -1549,9 +1650,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:0b54bbc7-dc84-4bb7-bf63-74015511682d@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261028T163000
-DTEND;TZID=Africa/Kampala:20261028T170000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261112T163000
+DTEND;TZID=Africa/Kampala:20261112T170000
 SUMMARY:T1V1: Daily log + commit
 DESCRIPTION:Three lines in the learning ledger. Commit and push. Back up to
  day's work.
@@ -1563,9 +1665,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:f021fb22-2cf0-47fa-a010-244741be2ca8@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261029T083000
-DTEND;TZID=Africa/Kampala:20261029T085000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261113T083000
+DTEND;TZID=Africa/Kampala:20261113T085000
 SUMMARY:T1V1: Stand-up + plan the day
 DESCRIPTION:Yesterday\, today\, blockers. Open the Gantt and today's goals.
  \nFull plan: tier1v1-gantt-and-audit.xlsx (Daily plan sheet).
@@ -1577,9 +1680,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:115691d3-f0ef-439a-8661-b17479d53d82@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261029T090000
-DTEND;TZID=Africa/Kampala:20261029T123000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261113T090000
+DTEND;TZID=Africa/Kampala:20261113T123000
 SUMMARY:T1V1: SolidWorks chassis concept
 DESCRIPTION:GOAL: On Windows model the frame\, wheels\, battery box and sen
  sor mast from the design constraints. Design for local fabrication: standa
@@ -1594,9 +1698,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:8edd7fcb-43c8-4257-8f55-3ac166555370@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261029T133000
-DTEND;TZID=Africa/Kampala:20261029T150000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261113T133000
+DTEND;TZID=Africa/Kampala:20261113T150000
 SUMMARY:T1V1: Cost model review
 DESCRIPTION:GOAL: Review the cost model\, add missing items and check price
  s against two suppliers.\nDONE WHEN: Cost model v0 reviewed.\nPARTNER TODA
@@ -1610,9 +1715,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cfeb3059-e6cb-4280-9f9b-473b3d475343@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261029T150000
-DTEND;TZID=Africa/Kampala:20261029T153000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261113T150000
+DTEND;TZID=Africa/Kampala:20261113T153000
 SUMMARY:T1V1: Supervisor check-in (confirm time)
 DESCRIPTION:Agenda: progress\, decisions needed\, blockers\, next week. Typ
  e the notes within the hour.
@@ -1624,9 +1730,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c7b8fc13-7f92-454d-a366-bab1fc59e474@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261029T153000
-DTEND;TZID=Africa/Kampala:20261029T163000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261113T153000
+DTEND;TZID=Africa/Kampala:20261113T163000
 SUMMARY:T1V1: Learning block
 DESCRIPTION:LEARN: SolidWorks weldments and sheet metal for local fabricati
  on.\nStuck for more than 30 minutes? Ask your partner\, then the tool's fo
@@ -1639,9 +1746,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:6c1a863d-ebd8-43fd-9735-5acfb9799558@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261029T163000
-DTEND;TZID=Africa/Kampala:20261029T170000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261113T163000
+DTEND;TZID=Africa/Kampala:20261113T170000
 SUMMARY:T1V1: Daily log + commit
 DESCRIPTION:Three lines in the learning ledger. Commit and push. Back up to
  day's work.
@@ -1653,9 +1761,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b84e90f5-b246-49a6-a370-964c56e6a7fd@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261030T083000
-DTEND;TZID=Africa/Kampala:20261030T085000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261116T083000
+DTEND;TZID=Africa/Kampala:20261116T085000
 SUMMARY:T1V1: Stand-up + plan the day
 DESCRIPTION:Yesterday\, today\, blockers. Open the Gantt and today's goals.
  \nFull plan: tier1v1-gantt-and-audit.xlsx (Daily plan sheet).
@@ -1667,9 +1776,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dfcec8c5-13f7-49bf-a972-11408c2aaffb@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261030T090000
-DTEND;TZID=Africa/Kampala:20261030T123000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261116T090000
+DTEND;TZID=Africa/Kampala:20261116T123000
 SUMMARY:T1V1: Gate 2 review
 DESCRIPTION:GOAL: Tick the Gate 2 list: cross-dataset gap number\, robot na
  vigating terrain worlds in randomised trials\, design constraints v1\, cha
@@ -1684,9 +1794,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:966e3a84-5f54-4d43-be28-5247c729a349@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261030T133000
-DTEND;TZID=Africa/Kampala:20261030T153000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261116T133000
+DTEND;TZID=Africa/Kampala:20261116T153000
 SUMMARY:T1V1: Demo video + plan November
 DESCRIPTION:GOAL: Record a screen demo: dataset results\, the robot on terr
  ain\, the constraints. Plan November: proposal writing\, funder targets.\n
@@ -1700,9 +1811,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:9d36d3f2-a54d-4f1c-8f7e-fbc8cfdc4db6@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261030T153000
-DTEND;TZID=Africa/Kampala:20261030T160000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261116T153000
+DTEND;TZID=Africa/Kampala:20261116T160000
 SUMMARY:T1V1: Learning block
 DESCRIPTION:LEARN: Teach-back prep.\nStuck for more than 30 minutes? Ask yo
  ur partner\, then the tool's forum\, then bring it back to Claude with the
@@ -1715,9 +1827,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:406a2864-b177-4efd-808c-dabe6548a3c1@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261030T160000
-DTEND;TZID=Africa/Kampala:20261030T163000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261116T160000
+DTEND;TZID=Africa/Kampala:20261116T163000
 SUMMARY:T1V1: Teach-back
 DESCRIPTION:Teammate explains one thing learned this week (5-10 min). You a
  sks two questions\, then explains one concept in return. See one\, do one\
@@ -1730,9 +1843,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c40eca90-cb4b-486c-a3d5-66ad1a39d71e@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261030T163000
-DTEND;TZID=Africa/Kampala:20261030T170000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261116T163000
+DTEND;TZID=Africa/Kampala:20261116T170000
 SUMMARY:T1V1: Daily log + commit
 DESCRIPTION:Three lines in the learning ledger. Commit and push. Update Gan
  tt % done.
@@ -1744,25 +1858,27 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:daa365e2-de97-4e8d-bf83-05ba7cda964c@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20260923T090000
-DTEND;TZID=Africa/Kampala:20260923T090500
-SUMMARY:REMINDER: Ask supervisor: check-in slots (Oct 8\, 15\, 22\, 29)\, a
-  Linux ...
-DESCRIPTION:Ask supervisor: check-in slots (Oct 8\, 15\, 22\, 29)\, a Linux
-  workstation if UIRI has one\, an introduction to Makerere and NARO.
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261008T090000
+DTEND;TZID=Africa/Kampala:20261008T090500
+SUMMARY:REMINDER: Ask supervisor: check-in slots (Oct 26\, 30\, Nov 6\, 13)
+ \, a Linux ...
+DESCRIPTION:Ask supervisor: check-in slots (Oct 26\, 30\, Nov 6\, 13)\, a L
+ inux workstation if UIRI has one\, an introduction to Makerere and NARO.
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:REMINDER: Ask supervisor: check-in slots (Oct 8\, 15\, 22\, 29)
- \, a Linux ...
+DESCRIPTION:REMINDER: Ask supervisor: check-in slots (Oct 26\, 30\, Nov 6\,
+  13)\, a Linux ...
 TRIGGER:PT0S
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:d0d16d4e-c4bf-411b-b0c5-3947fede0525@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20260924T090000
-DTEND;TZID=Africa/Kampala:20260924T090500
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261012T090000
+DTEND;TZID=Africa/Kampala:20261012T090500
 SUMMARY:REMINDER: Confirm Teammate's machine (OS\, RAM\, free disk). Decide
  : own...
 DESCRIPTION:Confirm Teammate's machine (OS\, RAM\, free disk). Decide: own 
@@ -1776,9 +1892,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bcde464b-aa16-473a-befe-46d7d309d180@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20260925T090000
-DTEND;TZID=Africa/Kampala:20260925T090500
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261013T090000
+DTEND;TZID=Africa/Kampala:20261013T090500
 SUMMARY:REMINDER: Back up the Mac (Time Machine or external drive) and copy
   ke...
 DESCRIPTION:Back up the Mac (Time Machine or external drive) and copy key W
@@ -1792,9 +1909,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:f2f061e3-c0ec-42bd-ba33-44fa505b47d0@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20260928T090000
-DTEND;TZID=Africa/Kampala:20260928T090500
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261014T090000
+DTEND;TZID=Africa/Kampala:20261014T090500
 SUMMARY:REMINDER: Free disk space on the Mac (about 25 GiB free now).
 DESCRIPTION:Free disk space on the Mac (about 25 GiB free now).
 BEGIN:VALARM
@@ -1805,9 +1923,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:53051e94-7739-487c-ba84-51862ae704cc@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20260929T090000
-DTEND;TZID=Africa/Kampala:20260929T090500
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261015T090000
+DTEND;TZID=Africa/Kampala:20261015T090500
 SUMMARY:REMINDER: Windows: run winver (need build 19044 or later)\, run Win
  dows...
 DESCRIPTION:Windows: run winver (need build 19044 or later)\, run Windows U
@@ -1821,9 +1940,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:22c239b5-7369-440d-a2e9-2ad2a45cfd54@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20260930T160000
-DTEND;TZID=Africa/Kampala:20260930T160500
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261016T160000
+DTEND;TZID=Africa/Kampala:20261016T160500
 SUMMARY:REMINDER: Tomorrow is kickoff. Charge laptops\, install updates\, b
  ring ...
 DESCRIPTION:Tomorrow is kickoff. Charge laptops\, install updates\, bring y
@@ -1837,9 +1957,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:9763ddef-026b-4bb8-a840-551d783204fd@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261002T150000
-DTEND;TZID=Africa/Kampala:20261002T150500
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261020T150000
+DTEND;TZID=Africa/Kampala:20261020T150500
 SUMMARY:REMINDER: Gate 0 in 30 minutes: does Gazebo with a camera reach abo
  ut ...
 DESCRIPTION:Gate 0 in 30 minutes: does Gazebo with a camera reach about 10 
@@ -1853,9 +1974,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:017f4bcf-31ff-4dd3-a13c-f024aaed5dbf@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261002T164500
-DTEND;TZID=Africa/Kampala:20261002T165000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261020T164500
+DTEND;TZID=Africa/Kampala:20261020T165000
 SUMMARY:REMINDER: Update the Gantt: % done and status for every task.
 DESCRIPTION:Update the Gantt: % done and status for every task.
 BEGIN:VALARM
@@ -1866,9 +1988,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:89440d1a-b136-475f-a80c-b9956c3710df@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261005T083500
-DTEND;TZID=Africa/Kampala:20261005T084000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261021T083500
+DTEND;TZID=Africa/Kampala:20261021T084000
 SUMMARY:REMINDER: Plan the week: update Gantt status and % done\, agree thi
  s we...
 DESCRIPTION:Plan the week: update Gantt status and % done\, agree this week
@@ -1882,9 +2005,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:0199629d-811e-4b89-a58b-e24f2a7cbaba@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261005T163000
-DTEND;TZID=Africa/Kampala:20261005T163500
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261021T163000
+DTEND;TZID=Africa/Kampala:20261021T163500
 SUMMARY:REMINDER: Tomorrow 09:00: crop decision. The Data audit sheet must 
  be ...
 DESCRIPTION:Tomorrow 09:00: crop decision. The Data audit sheet must be com
@@ -1898,9 +2022,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:663f07cf-d38c-4a82-a9b1-015589fde5cf@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261008T130000
-DTEND;TZID=Africa/Kampala:20261008T130500
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261026T130000
+DTEND;TZID=Africa/Kampala:20261026T130500
 SUMMARY:REMINDER: Send the check-in agenda to the supervisor by 14:00.
 DESCRIPTION:Send the check-in agenda to the supervisor by 14:00.
 BEGIN:VALARM
@@ -1911,9 +2036,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:232791f1-020d-4923-91dd-878e18e714fd@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261012T083500
-DTEND;TZID=Africa/Kampala:20261012T084000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261027T083500
+DTEND;TZID=Africa/Kampala:20261027T084000
 SUMMARY:REMINDER: Plan the week: update Gantt status and % done\, agree thi
  s we...
 DESCRIPTION:Plan the week: update Gantt status and % done\, agree this week
@@ -1927,9 +2053,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:97a90dbb-c88f-4976-b1dc-fe3383007cab@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261015T163000
-DTEND;TZID=Africa/Kampala:20261015T163500
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261030T163000
+DTEND;TZID=Africa/Kampala:20261030T163500
 SUMMARY:REMINDER: Tomorrow: Gate 1 review. Have baseline numbers\, slope hi
  stog...
 DESCRIPTION:Tomorrow: Gate 1 review. Have baseline numbers\, slope histogra
@@ -1943,9 +2070,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:e741039b-c088-4e2a-a4fe-59dd88654791@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261016T164500
-DTEND;TZID=Africa/Kampala:20261016T165000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261102T164500
+DTEND;TZID=Africa/Kampala:20261102T165000
 SUMMARY:REMINDER: Update the Gantt: % done and status for every task.
 DESCRIPTION:Update the Gantt: % done and status for every task.
 BEGIN:VALARM
@@ -1956,9 +2084,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a7ef2095-f42d-4120-b34f-97e19293ec90@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261019T083500
-DTEND;TZID=Africa/Kampala:20261019T084000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261103T083500
+DTEND;TZID=Africa/Kampala:20261103T084000
 SUMMARY:REMINDER: Plan the week: update Gantt status and % done\, agree thi
  s we...
 DESCRIPTION:Plan the week: update Gantt status and % done\, agree this week
@@ -1972,9 +2101,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:59ca2353-4163-46b3-9cba-ee5b2bb12286@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261023T164500
-DTEND;TZID=Africa/Kampala:20261023T165000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261109T164500
+DTEND;TZID=Africa/Kampala:20261109T165000
 SUMMARY:REMINDER: Update the Gantt: % done and status for every task.
 DESCRIPTION:Update the Gantt: % done and status for every task.
 BEGIN:VALARM
@@ -1985,9 +2115,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:57993950-fd2c-462c-8984-0f78ec95ec8e@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261026T083500
-DTEND;TZID=Africa/Kampala:20261026T084000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261110T083500
+DTEND;TZID=Africa/Kampala:20261110T084000
 SUMMARY:REMINDER: Plan the week: update Gantt status and % done\, agree thi
  s we...
 DESCRIPTION:Plan the week: update Gantt status and % done\, agree this week
@@ -2001,9 +2132,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:892f21b7-843e-4537-a0d0-66f990804c01@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261027T163000
-DTEND;TZID=Africa/Kampala:20261027T163500
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261111T163000
+DTEND;TZID=Africa/Kampala:20261111T163500
 SUMMARY:REMINDER: Trials tomorrow: make sure the robot\, worlds and node st
  ubs ...
 DESCRIPTION:Trials tomorrow: make sure the robot\, worlds and node stubs al
@@ -2017,9 +2149,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:09fc2afd-45ef-4434-8fad-4931cf1942a7@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261029T163000
-DTEND;TZID=Africa/Kampala:20261029T163500
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261113T163000
+DTEND;TZID=Africa/Kampala:20261113T163500
 SUMMARY:REMINDER: Tomorrow: Gate 2. Demo video and slides must be ready by 
  15:...
 DESCRIPTION:Tomorrow: Gate 2. Demo video and slides must be ready by 15:30.
@@ -2032,9 +2165,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:35050775-4027-4cd8-b45b-5be3ac87c35b@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261030T164500
-DTEND;TZID=Africa/Kampala:20261030T165000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261116T164500
+DTEND;TZID=Africa/Kampala:20261116T165000
 SUMMARY:REMINDER: Send the supervisor the Gate 2 summary and the demo video
  .
 DESCRIPTION:Send the supervisor the Gate 2 summary and the demo video.
@@ -2047,9 +2181,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:746d7e7d-3c4a-45bc-8d5e-824f0655ed73@tier1v1
-DTSTAMP:20260922T003525Z
-DTSTART;TZID=Africa/Kampala:20261030T164500
-DTEND;TZID=Africa/Kampala:20261030T165000
+DTSTAMP:20261020T103000Z
+SEQUENCE:1
+DTSTART;TZID=Africa/Kampala:20261116T164500
+DTEND;TZID=Africa/Kampala:20261116T165000
 SUMMARY:REMINDER: Update the Gantt: % done and status for every task.
 DESCRIPTION:Update the Gantt: % done and status for every task.
 BEGIN:VALARM

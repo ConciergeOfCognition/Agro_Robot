@@ -1,0 +1,1826 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Tier 1 V1//Learning blocks//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Tier 1 V1 learning blocks (15:30)
+X-WR-TIMEZONE:Africa/Kampala
+BEGIN:VTIMEZONE
+TZID:Africa/Kampala
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:EAT
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:learn-001@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20261021T153000
+DTEND;TZID=Africa/Kampala:20261021T163000
+SUMMARY:Learn: Kaggle Python: lessons 1-2
+DESCRIPTION:RUN: Python quick pass (1 of 4)\nGOAL: Hello Python and Functio
+ ns. Do every exercise.\nLINK: https://www.kaggle.com/learn/python\nDONE WH
+ EN: Both exercises pass.\nStuck for more than 30 minutes? Write the questi
+ on down\, check the tool's forum\, then bring it to Claude with the full e
+ rror.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Kaggle Python: lessons 1-2
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-002@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20261022T153000
+DTEND;TZID=Africa/Kampala:20261022T163000
+SUMMARY:Learn: Kaggle Python: lessons 3-4
+DESCRIPTION:RUN: Python quick pass (2 of 4)\nGOAL: Booleans and conditional
+ s\; Lists.\nLINK: https://www.kaggle.com/learn/python\nDONE WHEN: Both exe
+ rcises pass.\nStuck for more than 30 minutes? Write the question down\, ch
+ eck the tool's forum\, then bring it to Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Kaggle Python: lessons 3-4
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-003@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20261023T153000
+DTEND;TZID=Africa/Kampala:20261023T163000
+SUMMARY:Learn: Kaggle Python: lessons 5-6
+DESCRIPTION:RUN: Python quick pass (3 of 4)\nGOAL: Loops and list comprehen
+ sions\; Strings and dictionaries.\nLINK: https://www.kaggle.com/learn/pyth
+ on\nDONE WHEN: Both exercises pass.\nStuck for more than 30 minutes? Write
+  the question down\, check the tool's forum\, then bring it to Claude with
+  the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Kaggle Python: lessons 5-6
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-004@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20261026T153000
+DTEND;TZID=Africa/Kampala:20261026T163000
+SUMMARY:Learn: Kaggle Python: lesson 7 + mini task
+DESCRIPTION:RUN: Python quick pass (4 of 4)\nGOAL: External libraries. Then
+  write a function that returns the mean of a list.\nLINK: https://www.kagg
+ le.com/learn/python\nDONE WHEN: Function written and tested on 3 lists.\nS
+ tuck for more than 30 minutes? Write the question down\, check the tool's 
+ forum\, then bring it to Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Kaggle Python: lesson 7 + mini task
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-005@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20261027T153000
+DTEND;TZID=Africa/Kampala:20261027T163000
+SUMMARY:Learn: Kaggle Pandas: lessons 1-2
+DESCRIPTION:RUN: Data with Pandas (1 of 4)\nGOAL: Creating\, reading and wr
+ iting\; indexing\, selecting\, assigning.\nLINK: https://www.kaggle.com/le
+ arn/pandas\nDONE WHEN: Both exercises pass.\nStuck for more than 30 minute
+ s? Write the question down\, check the tool's forum\, then bring it to Cla
+ ude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Kaggle Pandas: lessons 1-2
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-006@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20261028T153000
+DTEND;TZID=Africa/Kampala:20261028T163000
+SUMMARY:Learn: Kaggle Pandas: lessons 3-4
+DESCRIPTION:RUN: Data with Pandas (2 of 4)\nGOAL: Summary functions and map
+ s\; grouping and sorting.\nLINK: https://www.kaggle.com/learn/pandas\nDONE
+  WHEN: Both exercises pass.\nStuck for more than 30 minutes? Write the que
+ stion down\, check the tool's forum\, then bring it to Claude with the ful
+ l error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Kaggle Pandas: lessons 3-4
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-007@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20261029T153000
+DTEND;TZID=Africa/Kampala:20261029T163000
+SUMMARY:Learn: Kaggle Pandas: lessons 5-6
+DESCRIPTION:RUN: Data with Pandas (3 of 4)\nGOAL: Data types and missing va
+ lues\; renaming and combining.\nLINK: https://www.kaggle.com/learn/pandas\
+ nDONE WHEN: Both exercises pass.\nStuck for more than 30 minutes? Write th
+ e question down\, check the tool's forum\, then bring it to Claude with th
+ e full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Kaggle Pandas: lessons 5-6
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-008@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20261030T153000
+DTEND;TZID=Africa/Kampala:20261030T163000
+SUMMARY:Learn: Pandas on your own data
+DESCRIPTION:RUN: Data with Pandas (4 of 4)\nGOAL: Open one annotation or la
+ bel file from your data audit in pandas. Count the rows per class.\nLINK: 
+ https://www.kaggle.com/learn/pandas\nDONE WHEN: A small table of class cou
+ nts saved in the repo.\nStuck for more than 30 minutes? Write the question
+  down\, check the tool's forum\, then bring it to Claude with the full err
+ or.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Pandas on your own data
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-009@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20261102T153000
+DTEND;TZID=Africa/Kampala:20261102T163000
+SUMMARY:Learn: QGIS: load a DEM\, make a hillshade
+DESCRIPTION:RUN: QGIS for terrain (1 of 3)\nGOAL: Raster basics.\nLINK: htt
+ ps://docs.qgis.org/\nDONE WHEN: A hillshade of your area on screen.\nStuck
+  for more than 30 minutes? Write the question down\, check the tool's foru
+ m\, then bring it to Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: QGIS: load a DEM\, make a hillshade
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-010@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20261103T153000
+DTEND;TZID=Africa/Kampala:20261103T163000
+SUMMARY:Learn: QGIS: slope and aspect
+DESCRIPTION:RUN: QGIS for terrain (2 of 3)\nGOAL: Derive slope and aspect f
+ rom the DEM.\nLINK: https://docs.qgis.org/\nDONE WHEN: Slope raster saved.
+ \nStuck for more than 30 minutes? Write the question down\, check the tool
+ 's forum\, then bring it to Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: QGIS: slope and aspect
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-011@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20261104T153000
+DTEND;TZID=Africa/Kampala:20261104T163000
+SUMMARY:Learn: QGIS: add rainfall and soils layers
+DESCRIPTION:RUN: QGIS for terrain (3 of 3)\nGOAL: Bring in CHIRPS and SoilG
+ rids layers and read values.\nLINK: https://docs.qgis.org/\nDONE WHEN: One
+  map with 3 layers.\nStuck for more than 30 minutes? Write the question do
+ wn\, check the tool's forum\, then bring it to Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: QGIS: add rainfall and soils layers
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-012@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20261105T153000
+DTEND;TZID=Africa/Kampala:20261105T163000
+SUMMARY:Learn: Kaggle Intro to ML: lessons 1-2
+DESCRIPTION:RUN: First machine learning (1 of 4)\nGOAL: How models work\; b
+ asic data exploration.\nLINK: https://www.kaggle.com/learn/intro-to-machin
+ e-learning\nDONE WHEN: Both exercises pass.\nStuck for more than 30 minute
+ s? Write the question down\, check the tool's forum\, then bring it to Cla
+ ude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Kaggle Intro to ML: lessons 1-2
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-013@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20261106T153000
+DTEND;TZID=Africa/Kampala:20261106T163000
+SUMMARY:Learn: Kaggle Intro to ML: lessons 3-4
+DESCRIPTION:RUN: First machine learning (2 of 4)\nGOAL: Your first model\; 
+ model validation.\nLINK: https://www.kaggle.com/learn/intro-to-machine-lea
+ rning\nDONE WHEN: Both exercises pass.\nStuck for more than 30 minutes? Wr
+ ite the question down\, check the tool's forum\, then bring it to Claude w
+ ith the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Kaggle Intro to ML: lessons 3-4
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-014@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20261109T153000
+DTEND;TZID=Africa/Kampala:20261109T163000
+SUMMARY:Learn: Kaggle Intro to ML: lessons 5-6
+DESCRIPTION:RUN: First machine learning (3 of 4)\nGOAL: Underfitting and ov
+ erfitting\; random forests.\nLINK: https://www.kaggle.com/learn/intro-to-m
+ achine-learning\nDONE WHEN: Both exercises pass.\nStuck for more than 30 m
+ inutes? Write the question down\, check the tool's forum\, then bring it t
+ o Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Kaggle Intro to ML: lessons 5-6
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-015@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20261110T153000
+DTEND;TZID=Africa/Kampala:20261110T163000
+SUMMARY:Learn: Kaggle Intro to ML: lesson 7 + recap
+DESCRIPTION:RUN: First machine learning (4 of 4)\nGOAL: Competitions. Then 
+ explain overfitting in 3 sentences\, in your own words.\nLINK: https://www
+ .kaggle.com/learn/intro-to-machine-learning\nDONE WHEN: Your 3 sentences w
+ ritten down.\nStuck for more than 30 minutes? Write the question down\, ch
+ eck the tool's forum\, then bring it to Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Kaggle Intro to ML: lesson 7 + recap
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-016@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20261111T153000
+DTEND;TZID=Africa/Kampala:20261111T163000
+SUMMARY:Learn: Ultralytics: Train and Datasets pages
+DESCRIPTION:RUN: Detector tools (YOLO) (1 of 3)\nGOAL: How a dataset is lai
+ d out and how training is started.\nLINK: https://docs.ultralytics.com\nDO
+ NE WHEN: You can describe the folder and label format.\nStuck for more tha
+ n 30 minutes? Write the question down\, check the tool's forum\, then brin
+ g it to Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Ultralytics: Train and Datasets pages
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-017@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20261112T153000
+DTEND;TZID=Africa/Kampala:20261112T163000
+SUMMARY:Learn: Ultralytics: detection metrics
+DESCRIPTION:RUN: Detector tools (YOLO) (2 of 3)\nGOAL: mAP\, IoU\, precisio
+ n and recall.\nLINK: https://docs.ultralytics.com/guides/yolo-performance-
+ metrics/\nDONE WHEN: You can explain mAP in 2 sentences.\nStuck for more t
+ han 30 minutes? Write the question down\, check the tool's forum\, then br
+ ing it to Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Ultralytics: detection metrics
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-018@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20261113T153000
+DTEND;TZID=Africa/Kampala:20261113T163000
+SUMMARY:Learn: Ultralytics: Train mode and tips
+DESCRIPTION:RUN: Detector tools (YOLO) (3 of 3)\nGOAL: Settings that matter
+ : epochs\, image size\, batch size.\nLINK: https://docs.ultralytics.com/mo
+ des/train/\nDONE WHEN: A list of the 5 settings you will start with.\nStuc
+ k for more than 30 minutes? Write the question down\, check the tool's for
+ um\, then bring it to Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Ultralytics: Train mode and tips
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-019@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20261116T153000
+DTEND;TZID=Africa/Kampala:20261116T163000
+SUMMARY:Learn: Missing Semester: lecture 1\, the shell
+DESCRIPTION:RUN: Shell and Git essentials (1 of 4)\nGOAL: Navigation\, pipe
+ s\, permissions.\nLINK: https://missing.csail.mit.edu/2026\nDONE WHEN: Lec
+ ture watched\, notes written.\nStuck for more than 30 minutes? Write the q
+ uestion down\, check the tool's forum\, then bring it to Claude with the f
+ ull error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Missing Semester: lecture 1\, the shell
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-020@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20261117T153000
+DTEND;TZID=Africa/Kampala:20261117T163000
+SUMMARY:Learn: Missing Semester: lecture 5\, version control and Git
+DESCRIPTION:RUN: Shell and Git essentials (2 of 4)\nGOAL: Commits\, branche
+ s\, history.\nLINK: https://missing.csail.mit.edu/2026\nDONE WHEN: Lecture
+  watched\, notes written.\nStuck for more than 30 minutes? Write the quest
+ ion down\, check the tool's forum\, then bring it to Claude with the full 
+ error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Missing Semester: lecture 5\, version control and Git
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-021@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20261118T153000
+DTEND;TZID=Africa/Kampala:20261118T163000
+SUMMARY:Learn: Git exercises on your repo
+DESCRIPTION:RUN: Shell and Git essentials (3 of 4)\nGOAL: Make a branch\, c
+ hange a file\, merge it\, resolve one conflict.\nLINK: https://missing.csa
+ il.mit.edu/2026\nDONE WHEN: Branch merged on Agro_Robot or a practice repo
+ .\nStuck for more than 30 minutes? Write the question down\, check the too
+ l's forum\, then bring it to Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Git exercises on your repo
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-022@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20261119T153000
+DTEND;TZID=Africa/Kampala:20261119T163000
+SUMMARY:Learn: GitHub Skills: Introduction to GitHub
+DESCRIPTION:RUN: Shell and Git essentials (4 of 4)\nGOAL: Guided course ins
+ ide GitHub.\nLINK: https://skills.github.com/\nDONE WHEN: Course shows as 
+ complete.\nStuck for more than 30 minutes? Write the question down\, check
+  the tool's forum\, then bring it to Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: GitHub Skills: Introduction to GitHub
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-023@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20261120T153000
+DTEND;TZID=Africa/Kampala:20261120T163000
+SUMMARY:Learn: ROS 2 CLI: environment\, turtlesim\, rqt
+DESCRIPTION:RUN: ROS 2 command-line tools (1 of 4)\nGOAL: Set up the enviro
+ nment\, run turtlesim\, open rqt.\nLINK: https://docs.ros.org/en/jazzy/Tut
+ orials/Beginner-CLI-Tools.html\nDONE WHEN: Turtle moves from the keyboard.
+ \nStuck for more than 30 minutes? Write the question down\, check the tool
+ 's forum\, then bring it to Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: ROS 2 CLI: environment\, turtlesim\, rqt
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-024@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20261123T153000
+DTEND;TZID=Africa/Kampala:20261123T163000
+SUMMARY:Learn: ROS 2 CLI: nodes and topics
+DESCRIPTION:RUN: ROS 2 command-line tools (2 of 4)\nGOAL: List\, inspect an
+ d echo nodes and topics.\nLINK: https://docs.ros.org/en/jazzy/Tutorials/Be
+ ginner-CLI-Tools.html\nDONE WHEN: You can draw the node/topic graph.\nStuc
+ k for more than 30 minutes? Write the question down\, check the tool's for
+ um\, then bring it to Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: ROS 2 CLI: nodes and topics
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-025@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20261124T153000
+DTEND;TZID=Africa/Kampala:20261124T163000
+SUMMARY:Learn: ROS 2 CLI: services\, parameters\, actions
+DESCRIPTION:RUN: ROS 2 command-line tools (3 of 4)\nGOAL: Call a service\, 
+ change a parameter\, send an action goal.\nLINK: https://docs.ros.org/en/j
+ azzy/Tutorials/Beginner-CLI-Tools.html\nDONE WHEN: One of each done.\nStuc
+ k for more than 30 minutes? Write the question down\, check the tool's for
+ um\, then bring it to Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: ROS 2 CLI: services\, parameters\, actions
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-026@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20261125T153000
+DTEND;TZID=Africa/Kampala:20261125T163000
+SUMMARY:Learn: ROS 2 CLI: rqt_console\, launch\, rosbag
+DESCRIPTION:RUN: ROS 2 command-line tools (4 of 4)\nGOAL: Logs\, launch fil
+ es\, record and replay a topic.\nLINK: https://docs.ros.org/en/jazzy/Tutor
+ ials/Beginner-CLI-Tools.html\nDONE WHEN: A bag recorded and replayed.\nStu
+ ck for more than 30 minutes? Write the question down\, check the tool's fo
+ rum\, then bring it to Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: ROS 2 CLI: rqt_console\, launch\, rosbag
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-027@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20261126T153000
+DTEND;TZID=Africa/Kampala:20261126T163000
+SUMMARY:Learn: ROS 2 libraries: colcon and workspaces
+DESCRIPTION:RUN: ROS 2 client libraries (Python) (1 of 6)\nGOAL: Create a w
+ orkspace and build it.\nLINK: https://docs.ros.org/en/jazzy/Tutorials/Begi
+ nner-Client-Libraries.html\nDONE WHEN: colcon build finishes without error
+ s.\nStuck for more than 30 minutes? Write the question down\, check the to
+ ol's forum\, then bring it to Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: ROS 2 libraries: colcon and workspaces
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-028@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20261127T153000
+DTEND;TZID=Africa/Kampala:20261127T163000
+SUMMARY:Learn: ROS 2 libraries: create a package
+DESCRIPTION:RUN: ROS 2 client libraries (Python) (2 of 6)\nGOAL: Make a Pyt
+ hon package.\nLINK: https://docs.ros.org/en/jazzy/Tutorials/Beginner-Clien
+ t-Libraries.html\nDONE WHEN: Package builds and appears in ros2 pkg list.\
+ nStuck for more than 30 minutes? Write the question down\, check the tool'
+ s forum\, then bring it to Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: ROS 2 libraries: create a package
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-029@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20261130T153000
+DTEND;TZID=Africa/Kampala:20261130T163000
+SUMMARY:Learn: ROS 2 libraries: publisher and subscriber
+DESCRIPTION:RUN: ROS 2 client libraries (Python) (3 of 6)\nGOAL: Write both
+  in Python.\nLINK: https://docs.ros.org/en/jazzy/Tutorials/Beginner-Client
+ -Libraries.html\nDONE WHEN: Messages print on the subscriber.\nStuck for m
+ ore than 30 minutes? Write the question down\, check the tool's forum\, th
+ en bring it to Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: ROS 2 libraries: publisher and subscriber
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-030@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20261201T153000
+DTEND;TZID=Africa/Kampala:20261201T163000
+SUMMARY:Learn: ROS 2 libraries: run and debug your nodes
+DESCRIPTION:RUN: ROS 2 client libraries (Python) (4 of 6)\nGOAL: Run both\,
+  inspect with the CLI\, fix what breaks.\nLINK: https://docs.ros.org/en/ja
+ zzy/Tutorials/Beginner-Client-Libraries.html\nDONE WHEN: You can explain e
+ very line of both nodes.\nStuck for more than 30 minutes? Write the questi
+ on down\, check the tool's forum\, then bring it to Claude with the full e
+ rror.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: ROS 2 libraries: run and debug your nodes
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-031@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20261202T153000
+DTEND;TZID=Africa/Kampala:20261202T163000
+SUMMARY:Learn: ROS 2 libraries: service and client
+DESCRIPTION:RUN: ROS 2 client libraries (Python) (5 of 6)\nGOAL: Write a se
+ rvice and a client in Python.\nLINK: https://docs.ros.org/en/jazzy/Tutoria
+ ls/Beginner-Client-Libraries.html\nDONE WHEN: Client gets a reply.\nStuck 
+ for more than 30 minutes? Write the question down\, check the tool's forum
+ \, then bring it to Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: ROS 2 libraries: service and client
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-032@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20261203T153000
+DTEND;TZID=Africa/Kampala:20261203T163000
+SUMMARY:Learn: ROS 2 libraries: custom interfaces and parameters
+DESCRIPTION:RUN: ROS 2 client libraries (Python) (6 of 6)\nGOAL: Define a m
+ essage and use a node parameter.\nLINK: https://docs.ros.org/en/jazzy/Tuto
+ rials/Beginner-Client-Libraries.html\nDONE WHEN: Custom message sent and r
+ eceived.\nStuck for more than 30 minutes? Write the question down\, check 
+ the tool's forum\, then bring it to Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: ROS 2 libraries: custom interfaces and parameters
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-033@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20261204T153000
+DTEND;TZID=Africa/Kampala:20261204T163000
+SUMMARY:Learn: URDF: build a visual robot model
+DESCRIPTION:RUN: URDF robot description (1 of 3)\nGOAL: Links\, joints and 
+ shapes.\nLINK: https://docs.ros.org/en/jazzy/Tutorials/Intermediate/URDF/U
+ RDF-Main.html\nDONE WHEN: Robot shows in RViz.\nStuck for more than 30 min
+ utes? Write the question down\, check the tool's forum\, then bring it to 
+ Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: URDF: build a visual robot model
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-034@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20261207T153000
+DTEND;TZID=Africa/Kampala:20261207T163000
+SUMMARY:Learn: URDF: xacro
+DESCRIPTION:RUN: URDF robot description (2 of 3)\nGOAL: Shorten and paramet
+ erise your description.\nLINK: https://docs.ros.org/en/jazzy/Tutorials/Int
+ ermediate/URDF/URDF-Main.html\nDONE WHEN: Same robot generated from xacro.
+ \nStuck for more than 30 minutes? Write the question down\, check the tool
+ 's forum\, then bring it to Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: URDF: xacro
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-035@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20261208T153000
+DTEND;TZID=Africa/Kampala:20261208T163000
+SUMMARY:Learn: URDF: robot_state_publisher and RViz
+DESCRIPTION:RUN: URDF robot description (3 of 3)\nGOAL: Publish joint state
+ s and view the model.\nLINK: https://docs.ros.org/en/jazzy/Tutorials/Inter
+ mediate/URDF/URDF-Main.html\nDONE WHEN: Joints move in RViz.\nStuck for mo
+ re than 30 minutes? Write the question down\, check the tool's forum\, the
+ n bring it to Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: URDF: robot_state_publisher and RViz
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-036@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20261209T153000
+DTEND;TZID=Africa/Kampala:20261209T163000
+SUMMARY:Learn: Gazebo: getting started and SDF world basics
+DESCRIPTION:RUN: Gazebo Harmonic (1 of 5)\nGOAL: Recap the basics and the S
+ DF file layout.\nLINK: https://gazebosim.org/docs\nDONE WHEN: You can edit
+  a world file and reload it.\nStuck for more than 30 minutes? Write the qu
+ estion down\, check the tool's forum\, then bring it to Claude with the fu
+ ll error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Gazebo: getting started and SDF world basics
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-037@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20261210T153000
+DTEND;TZID=Africa/Kampala:20261210T163000
+SUMMARY:Learn: Gazebo: models in SDF
+DESCRIPTION:RUN: Gazebo Harmonic (2 of 5)\nGOAL: Links\, joints\, visual an
+ d collision shapes.\nLINK: https://gazebosim.org/docs\nDONE WHEN: A simple
+  box robot in a world.\nStuck for more than 30 minutes? Write the question
+  down\, check the tool's forum\, then bring it to Claude with the full err
+ or.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Gazebo: models in SDF
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-038@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20261211T153000
+DTEND;TZID=Africa/Kampala:20261211T163000
+SUMMARY:Learn: Gazebo: terrain and heightmaps
+DESCRIPTION:RUN: Gazebo Harmonic (3 of 5)\nGOAL: Load a heightmap in SDF.\n
+ LINK: https://gazebosim.org/docs\nDONE WHEN: A terrain world opens.\nStuck
+  for more than 30 minutes? Write the question down\, check the tool's foru
+ m\, then bring it to Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Gazebo: terrain and heightmaps
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-039@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20261214T153000
+DTEND;TZID=Africa/Kampala:20261214T163000
+SUMMARY:Learn: Gazebo: sensors\, camera and lidar
+DESCRIPTION:RUN: Gazebo Harmonic (4 of 5)\nGOAL: Add both and look at their
+  output.\nLINK: https://gazebosim.org/docs\nDONE WHEN: Camera topic publis
+ hes in Gazebo.\nStuck for more than 30 minutes? Write the question down\, 
+ check the tool's forum\, then bring it to Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Gazebo: sensors\, camera and lidar
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-040@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20261215T153000
+DTEND;TZID=Africa/Kampala:20261215T163000
+SUMMARY:Learn: Gazebo: the ros_gz bridge
+DESCRIPTION:RUN: Gazebo Harmonic (5 of 5)\nGOAL: Pass topics between Gazebo
+  and ROS 2.\nLINK: https://gazebosim.org/docs/harmonic/ros_installation\nD
+ ONE WHEN: A Gazebo camera topic seen in ROS 2.\nStuck for more than 30 min
+ utes? Write the question down\, check the tool's forum\, then bring it to 
+ Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Gazebo: the ros_gz bridge
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-041@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20261216T153000
+DTEND;TZID=Africa/Kampala:20261216T163000
+SUMMARY:Learn: ROS 2: parameters and launch files
+DESCRIPTION:RUN: ROS 2 glue for vision (1 of 2)\nGOAL: Start several nodes 
+ from one launch file.\nLINK: https://docs.ros.org/en/jazzy/\nDONE WHEN: On
+ e launch file starts two nodes.\nStuck for more than 30 minutes? Write the
+  question down\, check the tool's forum\, then bring it to Claude with the
+  full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: ROS 2: parameters and launch files
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-042@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20261217T153000
+DTEND;TZID=Africa/Kampala:20261217T163000
+SUMMARY:Learn: ROS 2: image transport and cv_bridge
+DESCRIPTION:RUN: ROS 2 glue for vision (2 of 2)\nGOAL: Move camera images i
+ nto OpenCV and back.\nLINK: https://docs.ros.org/en/jazzy/\nDONE WHEN: An 
+ image topic converted and shown.\nStuck for more than 30 minutes? Write th
+ e question down\, check the tool's forum\, then bring it to Claude with th
+ e full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: ROS 2: image transport and cv_bridge
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-043@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20261218T153000
+DTEND;TZID=Africa/Kampala:20261218T163000
+SUMMARY:Learn: Nav2: concepts and architecture
+DESCRIPTION:RUN: Nav2 (1 of 4)\nGOAL: Planner\, controller\, costmaps.\nLIN
+ K: https://docs.nav2.org\nDONE WHEN: You can draw the Nav2 block diagram.\
+ nStuck for more than 30 minutes? Write the question down\, check the tool'
+ s forum\, then bring it to Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Nav2: concepts and architecture
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-044@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20261221T153000
+DTEND;TZID=Africa/Kampala:20261221T163000
+SUMMARY:Learn: Nav2: first-time setup and first run
+DESCRIPTION:RUN: Nav2 (2 of 4)\nGOAL: Bring up Nav2 with a sim robot.\nLINK
+ : https://docs.nav2.org\nDONE WHEN: Robot drives to a goal in simulation.\
+ nStuck for more than 30 minutes? Write the question down\, check the tool'
+ s forum\, then bring it to Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Nav2: first-time setup and first run
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-045@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20261222T153000
+DTEND;TZID=Africa/Kampala:20261222T163000
+SUMMARY:Learn: Nav2: behaviour trees
+DESCRIPTION:RUN: Nav2 (3 of 4)\nGOAL: What a navigation behaviour tree is.\
+ nLINK: https://docs.nav2.org\nDONE WHEN: You can read the default tree.\nS
+ tuck for more than 30 minutes? Write the question down\, check the tool's 
+ forum\, then bring it to Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Nav2: behaviour trees
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-046@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20261223T153000
+DTEND;TZID=Africa/Kampala:20261223T163000
+SUMMARY:Learn: Nav2: collision monitor
+DESCRIPTION:RUN: Nav2 (4 of 4)\nGOAL: Stop the robot near obstacles.\nLINK:
+  https://docs.nav2.org\nDONE WHEN: Robot stops before an obstacle.\nStuck 
+ for more than 30 minutes? Write the question down\, check the tool's forum
+ \, then bring it to Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Nav2: collision monitor
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-047@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20261224T153000
+DTEND;TZID=Africa/Kampala:20261224T163000
+SUMMARY:Learn: Missing Semester: lecture 2\, command-line environment
+DESCRIPTION:RUN: Terminal and tools\, part 2 (1 of 4)\nGOAL: Job control\, 
+ aliases\, dotfiles\, SSH.\nLINK: https://missing.csail.mit.edu/2026\nDONE 
+ WHEN: Lecture watched\, notes written.\nStuck for more than 30 minutes? Wr
+ ite the question down\, check the tool's forum\, then bring it to Claude w
+ ith the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Missing Semester: lecture 2\, command-line environment
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-048@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20261228T153000
+DTEND;TZID=Africa/Kampala:20261228T163000
+SUMMARY:Learn: Missing Semester: lecture 3\, development environment
+DESCRIPTION:RUN: Terminal and tools\, part 2 (2 of 4)\nGOAL: Editor and too
+ ls.\nLINK: https://missing.csail.mit.edu/2026\nDONE WHEN: Lecture watched\
+ , notes written.\nStuck for more than 30 minutes? Write the question down\
+ , check the tool's forum\, then bring it to Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Missing Semester: lecture 3\, development environment
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-049@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20261229T153000
+DTEND;TZID=Africa/Kampala:20261229T163000
+SUMMARY:Learn: Missing Semester: lecture 4\, debugging and profiling
+DESCRIPTION:RUN: Terminal and tools\, part 2 (3 of 4)\nGOAL: Print debuggin
+ g\, debuggers\, profilers.\nLINK: https://missing.csail.mit.edu/2026\nDONE
+  WHEN: Lecture watched\, notes written.\nStuck for more than 30 minutes? W
+ rite the question down\, check the tool's forum\, then bring it to Claude 
+ with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Missing Semester: lecture 4\, debugging and profiling
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-050@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20261230T153000
+DTEND;TZID=Africa/Kampala:20261230T163000
+SUMMARY:Learn: Shell and command-line exercises
+DESCRIPTION:RUN: Terminal and tools\, part 2 (4 of 4)\nGOAL: Do the exercis
+ es for lectures 1-2.\nLINK: https://missing.csail.mit.edu/2026\nDONE WHEN:
+  All exercises attempted.\nStuck for more than 30 minutes? Write the quest
+ ion down\, check the tool's forum\, then bring it to Claude with the full 
+ error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Shell and command-line exercises
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-051@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20261231T153000
+DTEND;TZID=Africa/Kampala:20261231T163000
+SUMMARY:Learn: Google MLCC: module 1\, Linear regression
+DESCRIPTION:RUN: Google ML Crash Course (1 of 12)\nGOAL: Read\, run the Col
+ ab exercise\, answer the checks.\nLINK: https://developers.google.com/mach
+ ine-learning/crash-course\nDONE WHEN: Exercise finished\; one sentence on 
+ what it is for.\nStuck for more than 30 minutes? Write the question down\,
+  check the tool's forum\, then bring it to Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Google MLCC: module 1\, Linear regression
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-052@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20270104T153000
+DTEND;TZID=Africa/Kampala:20270104T163000
+SUMMARY:Learn: Google MLCC: module 2\, Logistic regression
+DESCRIPTION:RUN: Google ML Crash Course (2 of 12)\nGOAL: Read\, run the Col
+ ab exercise\, answer the checks.\nLINK: https://developers.google.com/mach
+ ine-learning/crash-course\nDONE WHEN: Exercise finished\; one sentence on 
+ what it is for.\nStuck for more than 30 minutes? Write the question down\,
+  check the tool's forum\, then bring it to Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Google MLCC: module 2\, Logistic regression
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-053@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20270105T153000
+DTEND;TZID=Africa/Kampala:20270105T163000
+SUMMARY:Learn: Google MLCC: module 3\, Classification
+DESCRIPTION:RUN: Google ML Crash Course (3 of 12)\nGOAL: Read\, run the Col
+ ab exercise\, answer the checks.\nLINK: https://developers.google.com/mach
+ ine-learning/crash-course\nDONE WHEN: Exercise finished\; one sentence on 
+ what it is for.\nStuck for more than 30 minutes? Write the question down\,
+  check the tool's forum\, then bring it to Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Google MLCC: module 3\, Classification
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-054@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20270106T153000
+DTEND;TZID=Africa/Kampala:20270106T163000
+SUMMARY:Learn: Google MLCC: module 4\, Working with numerical data
+DESCRIPTION:RUN: Google ML Crash Course (4 of 12)\nGOAL: Read\, run the Col
+ ab exercise\, answer the checks.\nLINK: https://developers.google.com/mach
+ ine-learning/crash-course\nDONE WHEN: Exercise finished\; one sentence on 
+ what it is for.\nStuck for more than 30 minutes? Write the question down\,
+  check the tool's forum\, then bring it to Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Google MLCC: module 4\, Working with numerical data
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-055@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20270107T153000
+DTEND;TZID=Africa/Kampala:20270107T163000
+SUMMARY:Learn: Google MLCC: module 5\, Working with categorical data
+DESCRIPTION:RUN: Google ML Crash Course (5 of 12)\nGOAL: Read\, run the Col
+ ab exercise\, answer the checks.\nLINK: https://developers.google.com/mach
+ ine-learning/crash-course\nDONE WHEN: Exercise finished\; one sentence on 
+ what it is for.\nStuck for more than 30 minutes? Write the question down\,
+  check the tool's forum\, then bring it to Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Google MLCC: module 5\, Working with categorical data
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-056@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20270108T153000
+DTEND;TZID=Africa/Kampala:20270108T163000
+SUMMARY:Learn: Google MLCC: module 6\, Datasets\, generalization and overfi
+ tting
+DESCRIPTION:RUN: Google ML Crash Course (6 of 12)\nGOAL: Read\, run the Col
+ ab exercise\, answer the checks.\nLINK: https://developers.google.com/mach
+ ine-learning/crash-course\nDONE WHEN: Exercise finished\; one sentence on 
+ what it is for.\nStuck for more than 30 minutes? Write the question down\,
+  check the tool's forum\, then bring it to Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Google MLCC: module 6\, Datasets\, generalization and ov
+ erfitting
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-057@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20270111T153000
+DTEND;TZID=Africa/Kampala:20270111T163000
+SUMMARY:Learn: Google MLCC: module 7\, Neural networks
+DESCRIPTION:RUN: Google ML Crash Course (7 of 12)\nGOAL: Read\, run the Col
+ ab exercise\, answer the checks.\nLINK: https://developers.google.com/mach
+ ine-learning/crash-course\nDONE WHEN: Exercise finished\; one sentence on 
+ what it is for.\nStuck for more than 30 minutes? Write the question down\,
+  check the tool's forum\, then bring it to Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Google MLCC: module 7\, Neural networks
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-058@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20270112T153000
+DTEND;TZID=Africa/Kampala:20270112T163000
+SUMMARY:Learn: Google MLCC: module 8\, Embeddings
+DESCRIPTION:RUN: Google ML Crash Course (8 of 12)\nGOAL: Read\, run the Col
+ ab exercise\, answer the checks.\nLINK: https://developers.google.com/mach
+ ine-learning/crash-course\nDONE WHEN: Exercise finished\; one sentence on 
+ what it is for.\nStuck for more than 30 minutes? Write the question down\,
+  check the tool's forum\, then bring it to Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Google MLCC: module 8\, Embeddings
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-059@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20270113T153000
+DTEND;TZID=Africa/Kampala:20270113T163000
+SUMMARY:Learn: Google MLCC: module 9\, Large language models
+DESCRIPTION:RUN: Google ML Crash Course (9 of 12)\nGOAL: Read\, run the Col
+ ab exercise\, answer the checks.\nLINK: https://developers.google.com/mach
+ ine-learning/crash-course\nDONE WHEN: Exercise finished\; one sentence on 
+ what it is for.\nStuck for more than 30 minutes? Write the question down\,
+  check the tool's forum\, then bring it to Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Google MLCC: module 9\, Large language models
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-060@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20270114T153000
+DTEND;TZID=Africa/Kampala:20270114T163000
+SUMMARY:Learn: Google MLCC: module 10\, Production ML systems
+DESCRIPTION:RUN: Google ML Crash Course (10 of 12)\nGOAL: Read\, run the Co
+ lab exercise\, answer the checks.\nLINK: https://developers.google.com/mac
+ hine-learning/crash-course\nDONE WHEN: Exercise finished\; one sentence on
+  what it is for.\nStuck for more than 30 minutes? Write the question down\
+ , check the tool's forum\, then bring it to Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Google MLCC: module 10\, Production ML systems
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-061@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20270115T153000
+DTEND;TZID=Africa/Kampala:20270115T163000
+SUMMARY:Learn: Google MLCC: module 11\, Automated machine learning
+DESCRIPTION:RUN: Google ML Crash Course (11 of 12)\nGOAL: Read\, run the Co
+ lab exercise\, answer the checks.\nLINK: https://developers.google.com/mac
+ hine-learning/crash-course\nDONE WHEN: Exercise finished\; one sentence on
+  what it is for.\nStuck for more than 30 minutes? Write the question down\
+ , check the tool's forum\, then bring it to Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Google MLCC: module 11\, Automated machine learning
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-062@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20270118T153000
+DTEND;TZID=Africa/Kampala:20270118T163000
+SUMMARY:Learn: Google MLCC: module 12\, Fairness
+DESCRIPTION:RUN: Google ML Crash Course (12 of 12)\nGOAL: Read\, run the Co
+ lab exercise\, answer the checks.\nLINK: https://developers.google.com/mac
+ hine-learning/crash-course\nDONE WHEN: Exercise finished\; one sentence on
+  what it is for.\nStuck for more than 30 minutes? Write the question down\
+ , check the tool's forum\, then bring it to Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Google MLCC: module 12\, Fairness
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-063@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20270119T153000
+DTEND;TZID=Africa/Kampala:20270119T163000
+SUMMARY:Learn: Kaggle Intro to Deep Learning: lessons 1-3
+DESCRIPTION:RUN: Deep learning and vision (Kaggle) (1 of 4)\nGOAL: Single n
+ euron\, deep networks\, SGD.\nLINK: https://www.kaggle.com/learn/intro-to-
+ deep-learning\nDONE WHEN: Exercises pass.\nStuck for more than 30 minutes?
+  Write the question down\, check the tool's forum\, then bring it to Claud
+ e with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Kaggle Intro to Deep Learning: lessons 1-3
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-064@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20270120T153000
+DTEND;TZID=Africa/Kampala:20270120T163000
+SUMMARY:Learn: Kaggle Intro to Deep Learning: lessons 4-6
+DESCRIPTION:RUN: Deep learning and vision (Kaggle) (2 of 4)\nGOAL: Overfitt
+ ing\, dropout\, batch normalization\, binary classification.\nLINK: https:
+ //www.kaggle.com/learn/intro-to-deep-learning\nDONE WHEN: Exercises pass.\
+ nStuck for more than 30 minutes? Write the question down\, check the tool'
+ s forum\, then bring it to Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Kaggle Intro to Deep Learning: lessons 4-6
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-065@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20270121T153000
+DTEND;TZID=Africa/Kampala:20270121T163000
+SUMMARY:Learn: Kaggle Computer Vision: lessons 1-3
+DESCRIPTION:RUN: Deep learning and vision (Kaggle) (3 of 4)\nGOAL: Convolut
+ ional classifier\, convolution and ReLU\, pooling.\nLINK: https://www.kagg
+ le.com/learn/computer-vision\nDONE WHEN: Exercises pass.\nStuck for more t
+ han 30 minutes? Write the question down\, check the tool's forum\, then br
+ ing it to Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Kaggle Computer Vision: lessons 1-3
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-066@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20270122T153000
+DTEND;TZID=Africa/Kampala:20270122T163000
+SUMMARY:Learn: Kaggle Computer Vision: lessons 4-6
+DESCRIPTION:RUN: Deep learning and vision (Kaggle) (4 of 4)\nGOAL: Sliding 
+ window\, custom convnets\, data augmentation.\nLINK: https://www.kaggle.co
+ m/learn/computer-vision\nDONE WHEN: Exercises pass.\nStuck for more than 3
+ 0 minutes? Write the question down\, check the tool's forum\, then bring i
+ t to Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Kaggle Computer Vision: lessons 4-6
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-067@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20270125T153000
+DTEND;TZID=Africa/Kampala:20270125T163000
+SUMMARY:Learn: torchvision detection tutorial: run it
+DESCRIPTION:RUN: torchvision detection (1 of 2)\nGOAL: Fine-tune a detector
+  in the notebook.\nLINK: https://pytorch.org/tutorials/intermediate/torchv
+ ision_tutorial.html\nDONE WHEN: Notebook runs end to end.\nStuck for more 
+ than 30 minutes? Write the question down\, check the tool's forum\, then b
+ ring it to Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: torchvision detection tutorial: run it
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-068@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20270126T153000
+DTEND;TZID=Africa/Kampala:20270126T163000
+SUMMARY:Learn: torchvision detection: read the output
+DESCRIPTION:RUN: torchvision detection (2 of 2)\nGOAL: Boxes\, labels\, sco
+ res\; how it is evaluated.\nLINK: https://pytorch.org/tutorials/intermedia
+ te/torchvision_tutorial.html\nDONE WHEN: You can explain one prediction.\n
+ Stuck for more than 30 minutes? Write the question down\, check the tool's
+  forum\, then bring it to Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: torchvision detection: read the output
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-069@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20270127T153000
+DTEND;TZID=Africa/Kampala:20270127T163000
+SUMMARY:Learn: fast.ai Practical Deep Learning: lesson 1\, watch
+DESCRIPTION:RUN: fast.ai (1 of 18)\nGOAL: Watch the first part of the lesso
+ n and take notes.\nLINK: https://course.fast.ai/\nDONE WHEN: Notes written
+ \; stop at the end of the hour.\nStuck for more than 30 minutes? Write the
+  question down\, check the tool's forum\, then bring it to Claude with the
+  full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: fast.ai Practical Deep Learning: lesson 1\, watch
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-070@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20270128T153000
+DTEND;TZID=Africa/Kampala:20270128T163000
+SUMMARY:Learn: fast.ai Practical Deep Learning: lesson 1\, notebook
+DESCRIPTION:RUN: fast.ai (2 of 18)\nGOAL: Finish the lesson\, run its noteb
+ ook\, change one thing and see what happens.\nLINK: https://course.fast.ai
+ /\nDONE WHEN: Notebook run\; one change tried.\nStuck for more than 30 min
+ utes? Write the question down\, check the tool's forum\, then bring it to 
+ Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: fast.ai Practical Deep Learning: lesson 1\, notebook
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-071@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20270129T153000
+DTEND;TZID=Africa/Kampala:20270129T163000
+SUMMARY:Learn: fast.ai Practical Deep Learning: lesson 2\, watch
+DESCRIPTION:RUN: fast.ai (3 of 18)\nGOAL: Watch the first part of the lesso
+ n and take notes.\nLINK: https://course.fast.ai/\nDONE WHEN: Notes written
+ \; stop at the end of the hour.\nStuck for more than 30 minutes? Write the
+  question down\, check the tool's forum\, then bring it to Claude with the
+  full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: fast.ai Practical Deep Learning: lesson 2\, watch
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-072@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20270201T153000
+DTEND;TZID=Africa/Kampala:20270201T163000
+SUMMARY:Learn: fast.ai Practical Deep Learning: lesson 2\, notebook
+DESCRIPTION:RUN: fast.ai (4 of 18)\nGOAL: Finish the lesson\, run its noteb
+ ook\, change one thing and see what happens.\nLINK: https://course.fast.ai
+ /\nDONE WHEN: Notebook run\; one change tried.\nStuck for more than 30 min
+ utes? Write the question down\, check the tool's forum\, then bring it to 
+ Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: fast.ai Practical Deep Learning: lesson 2\, notebook
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-073@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20270202T153000
+DTEND;TZID=Africa/Kampala:20270202T163000
+SUMMARY:Learn: fast.ai Practical Deep Learning: lesson 3\, watch
+DESCRIPTION:RUN: fast.ai (5 of 18)\nGOAL: Watch the first part of the lesso
+ n and take notes.\nLINK: https://course.fast.ai/\nDONE WHEN: Notes written
+ \; stop at the end of the hour.\nStuck for more than 30 minutes? Write the
+  question down\, check the tool's forum\, then bring it to Claude with the
+  full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: fast.ai Practical Deep Learning: lesson 3\, watch
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-074@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20270203T153000
+DTEND;TZID=Africa/Kampala:20270203T163000
+SUMMARY:Learn: fast.ai Practical Deep Learning: lesson 3\, notebook
+DESCRIPTION:RUN: fast.ai (6 of 18)\nGOAL: Finish the lesson\, run its noteb
+ ook\, change one thing and see what happens.\nLINK: https://course.fast.ai
+ /\nDONE WHEN: Notebook run\; one change tried.\nStuck for more than 30 min
+ utes? Write the question down\, check the tool's forum\, then bring it to 
+ Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: fast.ai Practical Deep Learning: lesson 3\, notebook
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-075@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20270204T153000
+DTEND;TZID=Africa/Kampala:20270204T163000
+SUMMARY:Learn: fast.ai Practical Deep Learning: lesson 4\, watch
+DESCRIPTION:RUN: fast.ai (7 of 18)\nGOAL: Watch the first part of the lesso
+ n and take notes.\nLINK: https://course.fast.ai/\nDONE WHEN: Notes written
+ \; stop at the end of the hour.\nStuck for more than 30 minutes? Write the
+  question down\, check the tool's forum\, then bring it to Claude with the
+  full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: fast.ai Practical Deep Learning: lesson 4\, watch
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-076@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20270205T153000
+DTEND;TZID=Africa/Kampala:20270205T163000
+SUMMARY:Learn: fast.ai Practical Deep Learning: lesson 4\, notebook
+DESCRIPTION:RUN: fast.ai (8 of 18)\nGOAL: Finish the lesson\, run its noteb
+ ook\, change one thing and see what happens.\nLINK: https://course.fast.ai
+ /\nDONE WHEN: Notebook run\; one change tried.\nStuck for more than 30 min
+ utes? Write the question down\, check the tool's forum\, then bring it to 
+ Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: fast.ai Practical Deep Learning: lesson 4\, notebook
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-077@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20270208T153000
+DTEND;TZID=Africa/Kampala:20270208T163000
+SUMMARY:Learn: fast.ai Practical Deep Learning: lesson 5\, watch
+DESCRIPTION:RUN: fast.ai (9 of 18)\nGOAL: Watch the first part of the lesso
+ n and take notes.\nLINK: https://course.fast.ai/\nDONE WHEN: Notes written
+ \; stop at the end of the hour.\nStuck for more than 30 minutes? Write the
+  question down\, check the tool's forum\, then bring it to Claude with the
+  full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: fast.ai Practical Deep Learning: lesson 5\, watch
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-078@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20270209T153000
+DTEND;TZID=Africa/Kampala:20270209T163000
+SUMMARY:Learn: fast.ai Practical Deep Learning: lesson 5\, notebook
+DESCRIPTION:RUN: fast.ai (10 of 18)\nGOAL: Finish the lesson\, run its note
+ book\, change one thing and see what happens.\nLINK: https://course.fast.a
+ i/\nDONE WHEN: Notebook run\; one change tried.\nStuck for more than 30 mi
+ nutes? Write the question down\, check the tool's forum\, then bring it to
+  Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: fast.ai Practical Deep Learning: lesson 5\, notebook
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-079@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20270210T153000
+DTEND;TZID=Africa/Kampala:20270210T163000
+SUMMARY:Learn: fast.ai Practical Deep Learning: lesson 6\, watch
+DESCRIPTION:RUN: fast.ai (11 of 18)\nGOAL: Watch the first part of the less
+ on and take notes.\nLINK: https://course.fast.ai/\nDONE WHEN: Notes writte
+ n\; stop at the end of the hour.\nStuck for more than 30 minutes? Write th
+ e question down\, check the tool's forum\, then bring it to Claude with th
+ e full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: fast.ai Practical Deep Learning: lesson 6\, watch
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-080@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20270211T153000
+DTEND;TZID=Africa/Kampala:20270211T163000
+SUMMARY:Learn: fast.ai Practical Deep Learning: lesson 6\, notebook
+DESCRIPTION:RUN: fast.ai (12 of 18)\nGOAL: Finish the lesson\, run its note
+ book\, change one thing and see what happens.\nLINK: https://course.fast.a
+ i/\nDONE WHEN: Notebook run\; one change tried.\nStuck for more than 30 mi
+ nutes? Write the question down\, check the tool's forum\, then bring it to
+  Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: fast.ai Practical Deep Learning: lesson 6\, notebook
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-081@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20270212T153000
+DTEND;TZID=Africa/Kampala:20270212T163000
+SUMMARY:Learn: fast.ai Practical Deep Learning: lesson 7\, watch
+DESCRIPTION:RUN: fast.ai (13 of 18)\nGOAL: Watch the first part of the less
+ on and take notes.\nLINK: https://course.fast.ai/\nDONE WHEN: Notes writte
+ n\; stop at the end of the hour.\nStuck for more than 30 minutes? Write th
+ e question down\, check the tool's forum\, then bring it to Claude with th
+ e full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: fast.ai Practical Deep Learning: lesson 7\, watch
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-082@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20270215T153000
+DTEND;TZID=Africa/Kampala:20270215T163000
+SUMMARY:Learn: fast.ai Practical Deep Learning: lesson 7\, notebook
+DESCRIPTION:RUN: fast.ai (14 of 18)\nGOAL: Finish the lesson\, run its note
+ book\, change one thing and see what happens.\nLINK: https://course.fast.a
+ i/\nDONE WHEN: Notebook run\; one change tried.\nStuck for more than 30 mi
+ nutes? Write the question down\, check the tool's forum\, then bring it to
+  Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: fast.ai Practical Deep Learning: lesson 7\, notebook
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-083@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20270216T153000
+DTEND;TZID=Africa/Kampala:20270216T163000
+SUMMARY:Learn: fast.ai Practical Deep Learning: lesson 8\, watch
+DESCRIPTION:RUN: fast.ai (15 of 18)\nGOAL: Watch the first part of the less
+ on and take notes.\nLINK: https://course.fast.ai/\nDONE WHEN: Notes writte
+ n\; stop at the end of the hour.\nStuck for more than 30 minutes? Write th
+ e question down\, check the tool's forum\, then bring it to Claude with th
+ e full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: fast.ai Practical Deep Learning: lesson 8\, watch
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-084@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20270217T153000
+DTEND;TZID=Africa/Kampala:20270217T163000
+SUMMARY:Learn: fast.ai Practical Deep Learning: lesson 8\, notebook
+DESCRIPTION:RUN: fast.ai (16 of 18)\nGOAL: Finish the lesson\, run its note
+ book\, change one thing and see what happens.\nLINK: https://course.fast.a
+ i/\nDONE WHEN: Notebook run\; one change tried.\nStuck for more than 30 mi
+ nutes? Write the question down\, check the tool's forum\, then bring it to
+  Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: fast.ai Practical Deep Learning: lesson 8\, notebook
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-085@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20270218T153000
+DTEND;TZID=Africa/Kampala:20270218T163000
+SUMMARY:Learn: fast.ai Practical Deep Learning: lesson 9\, watch
+DESCRIPTION:RUN: fast.ai (17 of 18)\nGOAL: Watch the first part of the less
+ on and take notes.\nLINK: https://course.fast.ai/\nDONE WHEN: Notes writte
+ n\; stop at the end of the hour.\nStuck for more than 30 minutes? Write th
+ e question down\, check the tool's forum\, then bring it to Claude with th
+ e full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: fast.ai Practical Deep Learning: lesson 9\, watch
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-086@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20270219T153000
+DTEND;TZID=Africa/Kampala:20270219T163000
+SUMMARY:Learn: fast.ai Practical Deep Learning: lesson 9\, notebook
+DESCRIPTION:RUN: fast.ai (18 of 18)\nGOAL: Finish the lesson\, run its note
+ book\, change one thing and see what happens.\nLINK: https://course.fast.a
+ i/\nDONE WHEN: Notebook run\; one change tried.\nStuck for more than 30 mi
+ nutes? Write the question down\, check the tool's forum\, then bring it to
+  Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: fast.ai Practical Deep Learning: lesson 9\, notebook
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-087@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20270222T153000
+DTEND;TZID=Africa/Kampala:20270222T163000
+SUMMARY:Learn: SolidWorks tutorials: assemblies
+DESCRIPTION:RUN: SolidWorks for fabrication (1 of 3)\nGOAL: Mates and assem
+ bly basics (Help menu tutorials).\nLINK: https://my.solidworks.com/\nDONE 
+ WHEN: Small assembly with mates.\nStuck for more than 30 minutes? Write th
+ e question down\, check the tool's forum\, then bring it to Claude with th
+ e full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: SolidWorks tutorials: assemblies
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-088@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20270223T153000
+DTEND;TZID=Africa/Kampala:20270223T163000
+SUMMARY:Learn: SolidWorks: weldments
+DESCRIPTION:RUN: SolidWorks for fabrication (2 of 3)\nGOAL: Frame from stru
+ ctural members.\nLINK: https://my.solidworks.com/\nDONE WHEN: A simple wel
+ dment frame.\nStuck for more than 30 minutes? Write the question down\, ch
+ eck the tool's forum\, then bring it to Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: SolidWorks: weldments
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-089@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20270224T153000
+DTEND;TZID=Africa/Kampala:20270224T163000
+SUMMARY:Learn: SolidWorks: sheet metal
+DESCRIPTION:RUN: SolidWorks for fabrication (3 of 3)\nGOAL: Bends and flat 
+ patterns for local fabrication.\nLINK: https://my.solidworks.com/\nDONE WH
+ EN: One flat pattern exported.\nStuck for more than 30 minutes? Write the 
+ question down\, check the tool's forum\, then bring it to Claude with the 
+ full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: SolidWorks: sheet metal
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-090@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20270225T153000
+DTEND;TZID=Africa/Kampala:20270225T163000
+SUMMARY:Learn: Missing Semester: lecture 6\, packaging and shipping code
+DESCRIPTION:RUN: Missing Semester\, part 3 (1 of 4)\nGOAL: Packaging and re
+ leasing.\nLINK: https://missing.csail.mit.edu/2026\nDONE WHEN: Lecture wat
+ ched\, notes written.\nStuck for more than 30 minutes? Write the question 
+ down\, check the tool's forum\, then bring it to Claude with the full erro
+ r.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Missing Semester: lecture 6\, packaging and shipping cod
+ e
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-091@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20270226T153000
+DTEND;TZID=Africa/Kampala:20270226T163000
+SUMMARY:Learn: Missing Semester: lecture 7\, agentic coding
+DESCRIPTION:RUN: Missing Semester\, part 3 (2 of 4)\nGOAL: Working with AI 
+ coding tools.\nLINK: https://missing.csail.mit.edu/2026\nDONE WHEN: Lectur
+ e watched\, notes written.\nStuck for more than 30 minutes? Write the ques
+ tion down\, check the tool's forum\, then bring it to Claude with the full
+  error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Missing Semester: lecture 7\, agentic coding
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-092@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20270301T153000
+DTEND;TZID=Africa/Kampala:20270301T163000
+SUMMARY:Learn: Missing Semester: lecture 8\, beyond the code
+DESCRIPTION:RUN: Missing Semester\, part 3 (3 of 4)\nGOAL: Productivity and
+  collaboration.\nLINK: https://missing.csail.mit.edu/2026\nDONE WHEN: Lect
+ ure watched\, notes written.\nStuck for more than 30 minutes? Write the qu
+ estion down\, check the tool's forum\, then bring it to Claude with the fu
+ ll error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Missing Semester: lecture 8\, beyond the code
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-093@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20270302T153000
+DTEND;TZID=Africa/Kampala:20270302T163000
+SUMMARY:Learn: Missing Semester: lecture 9\, code quality
+DESCRIPTION:RUN: Missing Semester\, part 3 (4 of 4)\nGOAL: Style\, tests\, 
+ review.\nLINK: https://missing.csail.mit.edu/2026\nDONE WHEN: Lecture watc
+ hed\, notes written.\nStuck for more than 30 minutes? Write the question d
+ own\, check the tool's forum\, then bring it to Claude with the full error
+ .
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Missing Semester: lecture 9\, code quality
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-094@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20270303T153000
+DTEND;TZID=Africa/Kampala:20270303T163000
+SUMMARY:Learn: Modern Robotics Course 1\, week 1: videos
+DESCRIPTION:RUN: Modern Robotics (Course 1) (1 of 8)\nGOAL: Chapters 1-2: c
+ onfiguration space and degrees of freedom. Watch the lightboard videos.\nL
+ INK: https://modernrobotics.northwestern.edu/\nDONE WHEN: Videos watched\,
+  notes written.\nStuck for more than 30 minutes? Write the question down\,
+  check the tool's forum\, then bring it to Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Modern Robotics Course 1\, week 1: videos
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-095@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20270304T153000
+DTEND;TZID=Africa/Kampala:20270304T163000
+SUMMARY:Learn: Modern Robotics Course 1\, week 1: problems
+DESCRIPTION:RUN: Modern Robotics (Course 1) (2 of 8)\nGOAL: Book exercises 
+ and the code library (Python or MATLAB).\nLINK: https://modernrobotics.nor
+ thwestern.edu/\nDONE WHEN: Exercises attempted\; errors logged.\nStuck for
+  more than 30 minutes? Write the question down\, check the tool's forum\, 
+ then bring it to Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Modern Robotics Course 1\, week 1: problems
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-096@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20270305T153000
+DTEND;TZID=Africa/Kampala:20270305T163000
+SUMMARY:Learn: Modern Robotics Course 1\, week 2: videos
+DESCRIPTION:RUN: Modern Robotics (Course 1) (3 of 8)\nGOAL: Chapter 3: rota
+ tions. Watch the lightboard videos.\nLINK: https://modernrobotics.northwes
+ tern.edu/\nDONE WHEN: Videos watched\, notes written.\nStuck for more than
+  30 minutes? Write the question down\, check the tool's forum\, then bring
+  it to Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Modern Robotics Course 1\, week 2: videos
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-097@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20270308T153000
+DTEND;TZID=Africa/Kampala:20270308T163000
+SUMMARY:Learn: Modern Robotics Course 1\, week 2: problems
+DESCRIPTION:RUN: Modern Robotics (Course 1) (4 of 8)\nGOAL: Book exercises 
+ and the code library (Python or MATLAB).\nLINK: https://modernrobotics.nor
+ thwestern.edu/\nDONE WHEN: Exercises attempted\; errors logged.\nStuck for
+  more than 30 minutes? Write the question down\, check the tool's forum\, 
+ then bring it to Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Modern Robotics Course 1\, week 2: problems
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-098@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20270309T153000
+DTEND;TZID=Africa/Kampala:20270309T163000
+SUMMARY:Learn: Modern Robotics Course 1\, week 3: videos
+DESCRIPTION:RUN: Modern Robotics (Course 1) (5 of 8)\nGOAL: Chapter 3: rigi
+ d-body motions and transforms. Watch the lightboard videos.\nLINK: https:/
+ /modernrobotics.northwestern.edu/\nDONE WHEN: Videos watched\, notes writt
+ en.\nStuck for more than 30 minutes? Write the question down\, check the t
+ ool's forum\, then bring it to Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Modern Robotics Course 1\, week 3: videos
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-099@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20270310T153000
+DTEND;TZID=Africa/Kampala:20270310T163000
+SUMMARY:Learn: Modern Robotics Course 1\, week 3: problems
+DESCRIPTION:RUN: Modern Robotics (Course 1) (6 of 8)\nGOAL: Book exercises 
+ and the code library (Python or MATLAB).\nLINK: https://modernrobotics.nor
+ thwestern.edu/\nDONE WHEN: Exercises attempted\; errors logged.\nStuck for
+  more than 30 minutes? Write the question down\, check the tool's forum\, 
+ then bring it to Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Modern Robotics Course 1\, week 3: problems
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-100@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20270311T153000
+DTEND;TZID=Africa/Kampala:20270311T163000
+SUMMARY:Learn: Modern Robotics Course 1\, week 4: videos
+DESCRIPTION:RUN: Modern Robotics (Course 1) (7 of 8)\nGOAL: Chapter 3: velo
+ cities and screws. Watch the lightboard videos.\nLINK: https://modernrobot
+ ics.northwestern.edu/\nDONE WHEN: Videos watched\, notes written.\nStuck f
+ or more than 30 minutes? Write the question down\, check the tool's forum\
+ , then bring it to Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Modern Robotics Course 1\, week 4: videos
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:learn-101@tier1v1
+DTSTAMP:20261020T110000Z
+SEQUENCE:0
+DTSTART;TZID=Africa/Kampala:20270312T153000
+DTEND;TZID=Africa/Kampala:20270312T163000
+SUMMARY:Learn: Modern Robotics Course 1\, week 4: problems
+DESCRIPTION:RUN: Modern Robotics (Course 1) (8 of 8)\nGOAL: Book exercises 
+ and the code library (Python or MATLAB).\nLINK: https://modernrobotics.nor
+ thwestern.edu/\nDONE WHEN: Exercises attempted\; errors logged.\nStuck for
+  more than 30 minutes? Write the question down\, check the tool's forum\, 
+ then bring it to Claude with the full error.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn: Modern Robotics Course 1\, week 4: problems
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
