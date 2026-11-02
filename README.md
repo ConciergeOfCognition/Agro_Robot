@@ -30,3 +30,11 @@ We wrote custom Python scripts to audit and clean the data. You can find them in
 **1. Audit a standard dataset (Windows PowerShell):**
 ```powershell
 python scripts/audit_batches.py "<path_to_dataset>" --names Unripe,Ripening,Ripe,Spoilt,Coffee_tree
+```
+**2. Audit a standard dataset (WSL/Linux):**
+```bash
+python3 scripts/audit_croppie.py "<path_to_dataset>" --out audit_results --group-regex "^(\d+)"
+```
+**3. Audit a standard dataset (Windows PowerShell):**
+```powershell
+python scripts/fix_split.py
