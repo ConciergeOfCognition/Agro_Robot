@@ -38,3 +38,12 @@ python3 scripts/audit_croppie.py "<path_to_dataset>" --out audit_results --group
 **3. Audit a standard dataset (Windows PowerShell):**
 ```powershell
 python scripts/fix_split.py
+```
+### Model Baseline (YOLOv8n)
+
+- Overall mAP50: 0.590 (59.0%)
+
+- Overall mAP50-95: 0.421 (42.0%)
+
+- Small-Box (<16px) Recall: 65.6% (Note: Recall drops significantly for tiny objects)
+
