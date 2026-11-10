@@ -1,0 +1,6 @@
+# Agro_Robot rules
+- ROS + Gazebo coffee/tea robot; MATLAB for simulation.
+- Use the gh CLI for GitHub work. Repo: shockwavexjarvis/Agro_Robot.
+- Never push to main. Use a branch and open a PR.
+- Show the exact gh write command and wait for approval.
+- Plan first, then act. One file or function per task.
