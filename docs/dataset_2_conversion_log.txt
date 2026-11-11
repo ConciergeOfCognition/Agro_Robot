@@ -1,0 +1,15 @@
+source: /mnt/c/Users/ahumu/Desktop/Projects/Agro_robot/Coffee_kaggle
+map (source:target): 0:3,1:4,2:1
+images converted: 432
+images without a label file (skipped): 0
+label files without an image: 0
+malformed label lines (skipped): 0
+boxes before, by source class: {0: 437, 1: 377, 2: 1199}
+boxes dropped (class not in map): 0
+boxes after, by target class:
+  0 dark_brown: 0
+  1 green: 1199
+  2 low_visibility: 0
+  3 red: 437
+  4 yellow: 377
+check: after + dropped == before -> True
